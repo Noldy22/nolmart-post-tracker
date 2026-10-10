@@ -1,0 +1,1205 @@
+﻿NolMart Scents
+Video Generation Prompts for Google Flow
+Thirty-one ready-to-paste prompts for 10 second advertisement videos, each followed by a caption that matches what the video shows. There are 8 videos for the hanging car air fresheners and 23 videos for the perfumes. Every prompt follows the simple studio format that worked best in your tests: one product, a plain background, no people, a few scent ingredients, and four short scenes with smooth transitions.
+Prepared in October 2026 from the NolMart Perfume Standard Operating Procedures (version 3.1) and your feedback on the first two test videos.
+1. How to Use This Document
+1. Take one clear photo of your real product on a plain background: the hanging air freshener bottle for Section 2, or the perfume bottle for Sections 3 to 5. Shoot it straight on, in good light, with the label sharp and fully readable. For the hanging air freshener, make sure the cord is clearly visible in the photo, because the prompt tells Google Flow to copy the cord exactly from it.
+2. Open Google Flow, choose the vertical 9:16 format and the longest clip length (10 seconds), and attach your product photo as the reference image. The names of these options may differ in your version of Flow.
+3. Copy the full prompt from the purple box and paste it in. Generate. If you are on limited credits, test one prompt first and keep the best take.
+4. Check every take for three things: the bottle looks identical in every scene, the cord (for car air fresheners) is one single strand, and no ingredient passes in front of the label. If something is wrong, add one of the fix sentences from Section 6 to the end of the prompt and generate again.
+5. Add your own text in the Instagram editor or CapCut, because the video is generated without any words. Good places are the last two seconds, where the prompt leaves clean empty space in the upper third. For car air fresheners, add 10,000 Tzs and your call and WhatsApp number there.
+6. Paste the green caption box as the caption of the post. Each caption follows your caption formula: a hook line, short body paragraphs that match the video, a soft call to action and exactly five hashtags, with #NolMart first and #NolMartScents included.
+What we learned from your tests, and how these prompts use it:
+* Complex scenes fail: people in seats, a bottle on a rear-view mirror and a closing door were too much for the generator. These prompts have no people, no car and no hands.
+* Simple studio shots work: a bottle floating on a plain background, or standing on a flat surface, with ingredients moving around it. Every prompt uses one of those two styles.
+* One small move per scene works best: each scene has one camera move and one ingredient movement, so nothing competes for attention.
+* The cord problem: the first test showed an extra branch on the cord. Every car air freshener prompt now has a cord rule that forces one single strand copied from your photo, and the avoid list repeats it.
+About the formulas and brand names: the flagship captions describe only the smell and mood, never the ingredient ratios. Some pure scents carry designer names on your labels. The prompts never use those names inside the video, so only the text printed on your own bottle appears. The captions use your scent names as written in your Standard Operating Procedures, so rename any of them if you prefer.
+About prices in the captions: standard 10 millilitre perfumes are 10,000 Tzs, Tom Ford Noir Extreme starts at 12,000 Tzs, 212 VIP Men starts at 10,000 Tzs, Obsidian Reef starts at 13,000 Tzs, and the flagship scents start at 18,000 Tzs for the 10 millilitre bottle. These come from your procedures. Signature blends have no price in the caption, so customers message you for it. The hanging air freshener is 10,000 Tzs.
+2. Car Air Freshener Videos
+Eight videos, two for each scent. The floating videos use a plain white background. The surface videos use a soft colored background and a glossy surface. Attach your photo of the hanging air freshener bottle, with the wooden cap and the cord clearly visible. Coconut Passion: your Car Air Freshener Standard Operating Procedures says to run the stability test first, so launch the Coconut Passion videos after testing.
+1. Vanilla 28 Car Freshener, Floating
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Warm, creamy and sweet, like vanilla cream and soft caramel.
+Best used for: Long drives, traffic, evening commutes and a car that feels like a cozy lounge. Rated best choice in the Car Air Freshener Standard Operating Procedures.
+Attach to Google Flow: Your photo of the hanging air freshener bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the hanging car air freshener shown in the attached image: a small glass bottle with a raw, natural wooden cap and a thin cord. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same wooden cap with its natural grain, the same cord, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the wooden cap at the top and the label facing the camera. The cord floats just above the cap in one soft, gentle curve and drifts only slightly. CORD RULE: copy the cord exactly from the attached photo: the same single thin strand, the same thickness, the same color and the same way it is tied. The cord must stay one single strand in every scene. It must never split, branch, fork, tangle, double up, or grow extra strands, loops, knots or loose ends. The bottle never changes shape, size, color or label in any scene, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Whole vanilla pods, white vanilla orchid flowers, one thick ribbon of creamy white cream, one thick ribbon of golden caramel, and tiny gold dust specks. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, cream and honey gold. The mood is clean, premium, warm and sweet.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. The cord drifts gently and stays one single strand. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the wooden cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The wooden grain, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny golden dust specks drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny golden dust specks swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, three vanilla pods, three white orchid flowers, the ribbon of cream and the ribbon of caramel glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The cream ribbon curves in a graceful S shape and the caramel ribbon curves the opposite way. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced, elegant arrangement hovering around the bottle: the vanilla pods crossed below it, an orchid on each side, and the cream and caramel ribbons forming a soft circle around it. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A soft, warm, elegant instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap, cord or label. No extra cord strands, branches, forks, knots, loops or loose ends. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Your car, with the warmth of vanilla.
+Watch vanilla pods, orchid flowers and ribbons of cream and caramel swirl around our hanging car air freshener. That is how Vanilla 28 smells: warm, creamy and sweet, like a cozy lounge for every drive.
+Small glass bottle, natural wooden cap, 10,000 Tzs.
+Call or WhatsApp +255 695 557 358 to order yours.
+#NolMart #NolMartScents #CarAirFreshener #VanillaScent #DarEsSalaam
+	
+
+2. Vanilla 28 Car Freshener, On a Surface
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Warm, creamy and sweet, like vanilla cream and soft caramel.
+Best used for: Long drives, traffic, evening commutes and a car that feels like a cozy lounge. Rated best choice in the Car Air Freshener Standard Operating Procedures.
+Attach to Google Flow: Your photo of the hanging air freshener bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from warm cream to pale honey, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the hanging car air freshener shown in the attached image: a small glass bottle with a raw, natural wooden cap and a thin cord. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same wooden cap with its natural grain, the same cord, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy warm cream surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The cord rests on the surface just in front of the bottle in one neat, loose curve. CORD RULE: copy the cord exactly from the attached photo: the same single thin strand, the same thickness, the same color and the same way it is tied. The cord must stay one single strand in every scene. It must never split, branch, fork, tangle, double up, or grow extra strands, loops, knots or loose ends. The bottle never changes shape, size, color or label in any scene, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Whole vanilla pods, white vanilla orchid flowers, one thick ribbon of creamy white cream, one thick ribbon of golden caramel, and tiny gold dust specks. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is cream, honey gold, caramel amber and white. The mood is warm, sweet, cozy and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. The cord stays in its neat loose curve and stays one single strand. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, three vanilla pods and a handful of white orchid petals fall from the top of the frame and land softly on the surface around the bottle in a loose ring, with tiny gold dust specks sparkling in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A thick ribbon of golden caramel drifts down slowly and forms a soft swirl on the surface beside a white orchid flower, never touching the bottle. A second ribbon of creamy white cream curls beside it, and specks of gold dust shimmer. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the vanilla pods, the orchid petals and the caramel and cream swirls, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A soft, warm, elegant instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap, cord or label. No extra cord strands, branches, forks, knots, loops or loose ends. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Slow down. This one smells like a warm evening.
+Vanilla pods and orchid petals land softly around our Vanilla 28 hanging air freshener, then caramel and cream swirl beside it. A warm, creamy, sweet scent made for long drives, evening traffic and quiet commutes.
+Hanging air freshener, 10,000 Tzs.
+Call or WhatsApp +255 695 557 358 to order yours.
+#NolMart #NolMartScents #CarAirFreshener #CarScent #HangingAirFreshener
+	
+
+3. Strawberry Car Freshener, Floating
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Sweet, juicy strawberry with a soft creamy finish. Cheerful and fresh.
+Best used for: Daily driving, ride-hailing and taxi work, school runs and anyone who wants a happy, sweet-smelling car. Rated best choice and tested in the Car Air Freshener Standard Operating Procedures.
+Attach to Google Flow: Your photo of the hanging air freshener bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the hanging car air freshener shown in the attached image: a small glass bottle with a raw, natural wooden cap and a thin cord. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same wooden cap with its natural grain, the same cord, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the wooden cap at the top and the label facing the camera. The cord floats just above the cap in one soft, gentle curve and drifts only slightly. CORD RULE: copy the cord exactly from the attached photo: the same single thin strand, the same thickness, the same color and the same way it is tied. The cord must stay one single strand in every scene. It must never split, branch, fork, tangle, double up, or grow extra strands, loops, knots or loose ends. The bottle never changes shape, size, color or label in any scene, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Five ripe red strawberries, one strawberry cut in half to show its juicy center, soft pink flower petals, one thick ribbon of pink strawberry cream, and tiny juice droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, strawberry red, soft pink and a touch of gold. The mood is fresh, juicy, cheerful and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. The cord drifts gently and stays one single strand. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the wooden cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The wooden grain, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny pink juice droplets drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny pink juice droplets swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, five strawberries, the halved strawberry and a handful of pink petals glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The ribbon of pink strawberry cream curves in a graceful S shape through the spiral, and tiny juice droplets sparkle in the air. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the strawberries in a ring around it, the halved strawberry at the lower left, pink petals scattered between them, and the cream ribbon forming a soft circle. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A bright, cheerful, premium instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap, cord or label. No extra cord strands, branches, forks, knots, loops or loose ends. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Sweet, juicy and fresh. This is Strawberry for your car.
+Ripe strawberries, a halved strawberry, pink petals and a ribbon of strawberry cream circle our hanging air freshener. A sweet, juicy scent that turns a normal drive into a good morning.
+Perfect for daily driving, ride-hailing and taxi work. 10,000 Tzs.
+Call or WhatsApp +255 695 557 358 to order yours.
+#NolMart #NolMartScents #CarAirFreshener #StrawberryScent #TaxiDriversTZ
+	
+
+4. Strawberry Car Freshener, On a Surface
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Sweet, juicy strawberry with a soft creamy finish. Cheerful and fresh.
+Best used for: Daily driving, ride-hailing and taxi work, school runs and anyone who wants a happy, sweet-smelling car. Rated best choice and tested in the Car Air Freshener Standard Operating Procedures.
+Attach to Google Flow: Your photo of the hanging air freshener bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from pale pink to cream, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the hanging car air freshener shown in the attached image: a small glass bottle with a raw, natural wooden cap and a thin cord. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same wooden cap with its natural grain, the same cord, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale pink surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The cord rests on the surface just in front of the bottle in one neat, loose curve. CORD RULE: copy the cord exactly from the attached photo: the same single thin strand, the same thickness, the same color and the same way it is tied. The cord must stay one single strand in every scene. It must never split, branch, fork, tangle, double up, or grow extra strands, loops, knots or loose ends. The bottle never changes shape, size, color or label in any scene, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Five ripe red strawberries, one strawberry cut in half to show its juicy center, soft pink flower petals, one thick ribbon of pink strawberry cream, and tiny juice droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is soft pink, strawberry red, cream white and a touch of gold. The mood is fresh, juicy, cheerful and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. The cord stays in its neat loose curve and stays one single strand. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, five red strawberries and a handful of pink petals fall from the top of the frame and land softly on the surface around the bottle, forming a loose ring. Each strawberry gives one small, soft bounce, and tiny juice droplets sparkle in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: The halved strawberry sits beside the bottle with a glistening juicy center. A thick ribbon of pink strawberry cream drifts down slowly and forms a soft swirl on the surface next to the strawberry, never touching the bottle. A few juice droplets shimmer. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the ring of strawberries, the petals and the cream swirl, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A bright, cheerful, premium instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap, cord or label. No extra cord strands, branches, forks, knots, loops or loose ends. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+A good morning drive starts with a good smell.
+Strawberries drop in slow motion around our Strawberry hanging air freshener, then a cream swirl lands beside the juicy halved strawberry. Sweet, fresh and cheerful for school runs, daily drives and every passenger who sits in your car.
+Hanging air freshener, 10,000 Tzs.
+Call or WhatsApp +255 695 557 358 to order yours.
+#NolMart #NolMartScents #CarAirFreshener #CarScent #DarEsSalaam
+	
+
+5. Marshmallow Car Freshener, Floating
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Soft, sugary and gentle, like fresh marshmallow.
+Best used for: Younger drivers, a cheerful sweet-smelling car and gifts. Rated excellent in the Car Air Freshener Standard Operating Procedures.
+Attach to Google Flow: Your photo of the hanging air freshener bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the hanging car air freshener shown in the attached image: a small glass bottle with a raw, natural wooden cap and a thin cord. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same wooden cap with its natural grain, the same cord, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the wooden cap at the top and the label facing the camera. The cord floats just above the cap in one soft, gentle curve and drifts only slightly. CORD RULE: copy the cord exactly from the attached photo: the same single thin strand, the same thickness, the same color and the same way it is tied. The cord must stay one single strand in every scene. It must never split, branch, fork, tangle, double up, or grow extra strands, loops, knots or loose ends. The bottle never changes shape, size, color or label in any scene, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Soft white marshmallows, tufts of pale pink cotton candy, fine powdered sugar, and baby pink petals. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, baby pink and cream. The mood is sweet, soft, playful and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. The cord drifts gently and stays one single strand. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the wooden cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The wooden grain, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny sugar sparkles drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny sugar sparkles swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, six fluffy marshmallows, three tufts of pale pink cotton candy and a handful of baby pink petals glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet, with a soft cloud of powdered sugar trailing behind them. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the six marshmallows in a ring, a tuft of cotton candy on each side, petals scattered between them, and a soft cloud of powdered sugar around everything. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A sweet, playful, soft instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap, cord or label. No extra cord strands, branches, forks, knots, loops or loose ends. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Soft, sweet and fluffy. Yes, for your car.
+Marshmallows, cotton candy and a cloud of powdered sugar float around our Marshmallow hanging air freshener. A soft, sugary scent that makes the car feel cheerful and gentle.
+A lovely gift for a driver too. 10,000 Tzs.
+Call or WhatsApp +255 695 557 358 to order yours.
+#NolMart #NolMartScents #CarAirFreshener #MarshmallowScent #GiftIdeas
+	
+
+6. Marshmallow Car Freshener, On a Surface
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Soft, sugary and gentle, like fresh marshmallow.
+Best used for: Younger drivers, a cheerful sweet-smelling car and gifts. Rated excellent in the Car Air Freshener Standard Operating Procedures.
+Attach to Google Flow: Your photo of the hanging air freshener bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from baby pink to white, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the hanging car air freshener shown in the attached image: a small glass bottle with a raw, natural wooden cap and a thin cord. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same wooden cap with its natural grain, the same cord, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale baby pink surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The cord rests on the surface just in front of the bottle in one neat, loose curve. CORD RULE: copy the cord exactly from the attached photo: the same single thin strand, the same thickness, the same color and the same way it is tied. The cord must stay one single strand in every scene. It must never split, branch, fork, tangle, double up, or grow extra strands, loops, knots or loose ends. The bottle never changes shape, size, color or label in any scene, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Soft white marshmallows, tufts of pale pink cotton candy, fine powdered sugar, and baby pink petals. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is baby pink, marshmallow white, cream and a touch of gold. The mood is sweet, soft, playful and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. The cord stays in its neat loose curve and stays one single strand. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, six marshmallows and a handful of baby pink petals fall from the top of the frame and land softly on the surface around the bottle in a loose ring. Each marshmallow gives one tiny soft bounce, and small puffs of powdered sugar rise from the surface. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A tuft of pale pink cotton candy and two marshmallows sit beside the bottle. A fine dusting of powdered sugar drifts down slowly like soft snow and sparkles in the light, never covering the label. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the marshmallows, the cotton candy and the petals, with a light dusting of powdered sugar, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A sweet, playful, soft instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap, cord or label. No extra cord strands, branches, forks, knots, loops or loose ends. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Marshmallow clouds, car edition.
+Marshmallows tumble down in slow motion, then pink cotton candy and a soft snow of powdered sugar settle beside our Marshmallow hanging air freshener. Sweet, soft and playful, just like the scent.
+Hanging air freshener, 10,000 Tzs.
+Call or WhatsApp +255 695 557 358 to order yours.
+#NolMart #NolMartScents #CarAirFreshener #CarScent #HangingAirFreshener
+	
+
+7. Coconut Passion Car Freshener, Floating
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Sweet tropical coconut with passion fruit, warm and sunny.
+Best used for: Road trips to the beach, sunny drives, a holiday mood and hot afternoons. The Car Air Freshener Standard Operating Procedures says to run the stability test first, so launch this one after testing.
+Attach to Google Flow: Your photo of the hanging air freshener bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the hanging car air freshener shown in the attached image: a small glass bottle with a raw, natural wooden cap and a thin cord. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same wooden cap with its natural grain, the same cord, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the wooden cap at the top and the label facing the camera. The cord floats just above the cap in one soft, gentle curve and drifts only slightly. CORD RULE: copy the cord exactly from the attached photo: the same single thin strand, the same thickness, the same color and the same way it is tied. The cord must stay one single strand in every scene. It must never split, branch, fork, tangle, double up, or grow extra strands, loops, knots or loose ends. The bottle never changes shape, size, color or label in any scene, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Two coconut halves with white flesh, two halved ripe passion fruits with glistening seeds, white frangipani flowers, one thick ribbon of white coconut milk, and tiny water droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, golden yellow, soft coral and a hint of turquoise. The mood is tropical, sunny, fresh and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. The cord drifts gently and stays one single strand. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the wooden cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The wooden grain, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny water droplets drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny water droplets swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, two coconut halves, two passion fruit halves and three white frangipani flowers glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The ribbon of white coconut milk curves in a graceful S shape through the spiral, and tiny water droplets sparkle in the air. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the coconut halves at the lower sides, the passion fruit halves above them, a frangipani flower on each side, and the coconut milk ribbon forming a soft circle. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A sunny, relaxed, tropical-inspired instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap, cord or label. No extra cord strands, branches, forks, knots, loops or loose ends. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+A holiday scent for your daily drive.
+Coconut halves, passion fruit and frangipani flowers circle our Coconut Passion hanging air freshener with a ribbon of coconut milk. Sweet, tropical and sunny, like a drive to the beach.
+Hanging air freshener, 10,000 Tzs.
+Call or WhatsApp +255 695 557 358 to order yours.
+#NolMart #NolMartScents #CarAirFreshener #CoconutScent #DarEsSalaam
+	
+
+8. Coconut Passion Car Freshener, On a Surface
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Sweet tropical coconut with passion fruit, warm and sunny.
+Best used for: Road trips to the beach, sunny drives, a holiday mood and hot afternoons. The Car Air Freshener Standard Operating Procedures says to run the stability test first, so launch this one after testing.
+Attach to Google Flow: Your photo of the hanging air freshener bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from pale sand to white, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the hanging car air freshener shown in the attached image: a small glass bottle with a raw, natural wooden cap and a thin cord. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same wooden cap with its natural grain, the same cord, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale sand-colored surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The cord rests on the surface just in front of the bottle in one neat, loose curve. CORD RULE: copy the cord exactly from the attached photo: the same single thin strand, the same thickness, the same color and the same way it is tied. The cord must stay one single strand in every scene. It must never split, branch, fork, tangle, double up, or grow extra strands, loops, knots or loose ends. The bottle never changes shape, size, color or label in any scene, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Two coconut halves with white flesh, two halved ripe passion fruits with glistening seeds, white frangipani flowers, one thick ribbon of white coconut milk, and tiny water droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is coconut white, golden yellow, warm coral and a hint of turquoise. The mood is tropical, sunny, fresh and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. The cord stays in its neat loose curve and stays one single strand. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, two coconut halves, two passion fruit halves and a handful of white frangipani petals fall from the top of the frame and land softly on the surface around the bottle in a loose ring. Each piece gives one soft bounce, and tiny water droplets sparkle in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A halved passion fruit with glistening golden seeds sits beside a coconut half. A ribbon of white coconut milk drifts down slowly and forms a soft swirl beside them, never touching the bottle. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the coconut halves, the passion fruit, the frangipani petals and the coconut milk swirl, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A sunny, relaxed, tropical-inspired instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap, cord or label. No extra cord strands, branches, forks, knots, loops or loose ends. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Sunshine in a bottle. Hang it in your car.
+Coconut halves and passion fruit land softly around our Coconut Passion hanging air freshener, then a ribbon of coconut milk swirls beside them. A sweet, tropical scent for sunny drives and hot afternoons.
+Hanging air freshener, 10,000 Tzs.
+Call or WhatsApp +255 695 557 358 to order yours.
+#NolMart #NolMartScents #CarAirFreshener #CarScent #TropicalScent
+	
+
+3. Pure Perfume Videos
+Nine videos for the nine pure scents. Attach your photo of the matching perfume bottle.
+9. Now Rave
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Fresh, energetic and clean, with a bright sparkling lift that suits anyone.
+Best used for: Daytime, sports and gym sessions, hot weather, casual outings and busy days.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Fresh lime slices, lemon slices, green mint leaves, tiny ice crystals, and one thick ribbon of clear sparkling water. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, lime green, aqua and sunshine yellow. The mood is fresh, energetic, clean and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny water droplets drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny water droplets swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, four lime slices, three lemon slices, a few mint leaves and a small cluster of ice crystals glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The ribbon of clear water curves in a graceful S shape through the spiral, sparkling in the light. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the lime and lemon slices in a ring around it, mint leaves on each side, ice crystals scattered between them, and the water ribbon forming a soft circle. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A bright, energetic, clean instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Fresh enough to wake up a whole day.
+Lime, lemon, mint and ice swirl around the bottle in slow motion. That is Now Rave: fresh, energetic and clean, a scent that suits anyone.
+Wear it for daytime, sports, hot weather and busy days. Available in 10 millilitre and 30 millilitre bottles. The 10 millilitre bottle is 10,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #NowRave #FreshScent
+	
+
+10. Coconut Passion
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Sweet, tropical and warm, like creamy coconut with juicy passion fruit.
+Best used for: Beach days, holidays, warm afternoons, weekends and sunny celebrations.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from pale sand to white, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale sand-colored surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Two coconut halves with white flesh, two halved ripe passion fruits with glistening seeds, white frangipani flowers, one thick ribbon of white coconut milk, and tiny water droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is coconut white, golden yellow, warm coral and a hint of turquoise. The mood is tropical, sunny, fresh and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, two coconut halves, two passion fruit halves and a handful of white frangipani petals fall from the top of the frame and land softly on the surface around the bottle in a loose ring. Each piece gives one soft bounce, and tiny water droplets sparkle in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A halved passion fruit with glistening golden seeds sits beside a coconut half. A ribbon of white coconut milk drifts down slowly and forms a soft swirl beside them, never touching the bottle. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the coconut halves, the passion fruit, the frangipani petals and the coconut milk swirl, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A sunny, relaxed, tropical-inspired instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+A little holiday in every spray.
+Coconut halves and passion fruit land softly around the bottle, then a ribbon of coconut milk swirls beside them. Coconut Passion is sweet, tropical and warm.
+Made for beach days, holidays and sunny weekends. Available in 10 millilitre and 30 millilitre bottles. The 10 millilitre bottle is 10,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #CoconutPassion #TropicalScent
+	
+
+11. Vanilla 28
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Warm, creamy and sweet, as comforting as fresh vanilla cream and soft caramel.
+Best used for: Cool evenings, nights at home, date nights, cozy gatherings and anyone who loves comforting sweet scents.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Whole vanilla pods, white vanilla orchid flowers, one thick ribbon of creamy white cream, one thick ribbon of golden caramel, and tiny gold dust specks. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, cream and honey gold. The mood is clean, premium, warm and sweet.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny golden dust specks drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny golden dust specks swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, three vanilla pods, three white orchid flowers, the ribbon of cream and the ribbon of caramel glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The cream ribbon curves in a graceful S shape and the caramel ribbon curves the opposite way. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced, elegant arrangement hovering around the bottle: the vanilla pods crossed below it, an orchid on each side, and the cream and caramel ribbons forming a soft circle around it. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A soft, warm, elegant instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Warm, creamy and impossible to ignore.
+Vanilla pods, orchid flowers, cream and caramel float in a slow spiral around the bottle. That is Vanilla 28: warm, creamy and sweet, like a cozy evening.
+Perfect for cool nights, date nights and cozy gatherings. Available in 10 millilitre and 30 millilitre bottles. The 10 millilitre bottle is 10,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #Vanilla28 #SweetScent
+	
+
+12. Pink Chiffon
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Light, airy and floral, soft and romantic like fresh peonies and roses.
+Best used for: Spring and daytime wear, brunches, romantic dates, weddings and soft feminine occasions.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from blush pink to white, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale blush pink surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Fresh pink peonies, soft pink rose petals, one long sheer pink silk ribbon, and tiny dew droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is blush pink, pearl white, soft rose and champagne gold. The mood is romantic, soft, graceful and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, three pink peonies and a handful of rose petals fall from the top of the frame and land softly on the surface around the bottle in a loose ring, with tiny dew droplets sparkling in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: The long, sheer pink silk ribbon floats down slowly and settles on the surface in a soft S curve beside a peony, never touching the bottle. A few rose petals drift past, and the dew droplets shimmer. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the peonies, the rose petals and the soft silk ribbon, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A light, romantic, airy instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Soft, light and romantic.
+Peonies and rose petals fall gently around the bottle while a pink silk ribbon floats down beside it. Pink Chiffon is a light, airy floral scent.
+Lovely for spring days, brunch, dates and weddings. Available in 10 millilitre and 30 millilitre bottles. The 10 millilitre bottle is 10,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #PinkChiffon #FloralScent
+	
+
+13. Tom Ford Noir Extreme
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Dark, rich and oriental, with deep amber, warm spice and smoky wood. Bold and mysterious.
+Best used for: Late evenings, nightlife, formal events, cold weather and confident, memorable entrances.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a deep seamless black backdrop that fades to charcoal at the edges, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy polished black marble with thin gold veins surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Dark oud wood chunks, red saffron threads, dark amber resin pieces, thin curls of amber incense smoke, and fine gold dust. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A single soft spotlight from the upper left, a warm amber rim light from behind that outlines the bottle, and glossy reflections on the black marble. The color palette is black, deep amber and burnished gold. The mood is dark, bold, luxurious and mysterious.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, three chunks of dark oud wood and a few pieces of amber resin fall from the top of the frame and land softly on the marble around the bottle, while a pinch of red saffron threads and fine gold dust drifts down gently. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: Thin curls of amber incense smoke rise slowly from beside the bottle and curl upward in slow motion, lit by a warm amber light, with gold dust glinting inside the smoke. The smoke never covers the label. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, with the oud wood and the amber resin placed around it, the saffron threads on the marble and soft curls of smoke rising behind it, all neat and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A deep, slow, dark and luxurious instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Dark, rich and made for the night.
+Dark oud wood and amber resin land on black marble, then curls of amber smoke rise beside the bottle. Tom Ford Noir Extreme is deep, warm, spicy and bold.
+Made for late evenings, formal events and cold weather. The 10 millilitre bottle starts at 12,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #NightScent #BoldScent
+	
+
+14. Reef
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Fresh, aquatic and clean, like cool sea water and sea mist after a shower.
+Best used for: Hot days, after a shower, sports, the office in warm weather, beach trips and everyday freshness.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Clear water droplets, one thick ribbon of clear turquoise water, smooth sea glass pieces, small white seashells, and tiny bubbles. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, turquoise, aqua and silver. The mood is cool, clean, refreshing and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny bubbles drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny bubbles swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, five pieces of smooth sea glass, three small white seashells and a stream of tiny bubbles glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The ribbon of turquoise water curves in a graceful S shape through the spiral, catching the light. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the sea glass in a ring around it, a seashell on each side, bubbles drifting upward, and the turquoise water ribbon forming a soft circle. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A cool, calm, airy instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Cool, clean and fresh like sea water.
+Sea glass, shells and bubbles drift around the bottle with a ribbon of turquoise water. Reef is fresh, aquatic and clean.
+A great choice for hot days, after a shower, sports and the office. Available in 10 millilitre and 30 millilitre bottles. The 10 millilitre bottle is 10,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #ReefScent #AquaticScent
+	
+
+15. Burberry Weekend
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Soft, powdery and floral with a zesty mandarin opening and a gentle woody, musky finish. Relaxed and elegant.
+Best used for: Office wear, daytime elegance, weekend brunch and understated, put-together occasions.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from warm ivory to white, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale cream surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Fresh mandarin slices, white hyacinth flowers, soft lilac iris petals, small pieces of pale sandalwood, and a fine cloud of white powder. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is cream, soft lilac, peach and pale mandarin orange. The mood is calm, refined, elegant and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, four mandarin slices and a handful of lilac iris petals fall from the top of the frame and land softly on the surface around the bottle in a loose ring, with a small puff of white powder rising where they land. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A white hyacinth flower and a small piece of pale sandalwood sit beside the bottle. A fine, soft cloud of white powder drifts slowly across the frame behind the bottle, never covering the label. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the mandarin slices, the hyacinth, the iris petals and the sandalwood, with a light haze of powder, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A refined, calm, elegant instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Elegant mornings have a scent.
+Mandarin slices and lilac petals land softly around the bottle, and a fine cloud of powder drifts behind it. Burberry Weekend is soft, powdery and floral with a zesty citrus lift.
+Made for the office, brunch and elegant daytime wear. Available in 10 millilitre and 30 millilitre bottles. The 10 millilitre bottle is 10,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #BurberryWeekend #PowderyScent
+	
+
+16. Marshmallow
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Sweet, soft and sugary, like fresh marshmallow and warm vanilla candy. Playful and comforting.
+Best used for: Casual days, young and playful moods, cozy hangouts, gifting and anyone who loves sweet, dessert-like scents.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from baby pink to white, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale baby pink surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Soft white marshmallows, tufts of pale pink cotton candy, fine powdered sugar, and baby pink petals. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is baby pink, marshmallow white, cream and a touch of gold. The mood is sweet, soft, playful and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, six marshmallows and a handful of baby pink petals fall from the top of the frame and land softly on the surface around the bottle in a loose ring. Each marshmallow gives one tiny soft bounce, and small puffs of powdered sugar rise from the surface. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A tuft of pale pink cotton candy and two marshmallows sit beside the bottle. A fine dusting of powdered sugar drifts down slowly like soft snow and sparkles in the light, never covering the label. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the marshmallows, the cotton candy and the petals, with a light dusting of powdered sugar, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A sweet, playful, soft instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Sweet like a cloud of marshmallows.
+Marshmallows tumble down and a soft snow of powdered sugar settles around the bottle. Marshmallow is sweet, soft and comforting, like a dessert you can wear.
+Great for casual days, cozy hangouts and gifts. Available in 10 millilitre and 30 millilitre bottles. The 10 millilitre bottle is 10,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #MarshmallowScent #SweetScent
+	
+
+17. 212 VIP Men
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Fresh, fruity and aromatic, with sparkling citrus and cool mint over a smooth, slightly sweet base. Confident and modern.
+Best used for: Nights out, parties, dates, celebrations and any evening that calls for high energy.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a deep, seamless midnight blue studio backdrop that fades to black at the edges, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Crushed ice cubes, fresh mint leaves, citrus slices, tiny champagne-like bubbles, and silver sparkles. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A cool blue key light from the upper left, a bright white rim light from behind that outlines the bottle, and sharp silvery reflections on the glass. The color palette is electric blue, silver, icy white and a touch of gold. The mood is fresh, confident, energetic and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny silver sparkles drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny silver sparkles swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, four ice cubes, a handful of mint leaves and three citrus slices glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet, while tiny bubbles rise past it and silver sparkles twinkle in the air. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the ice cubes in a ring around it, citrus slices on each side, mint leaves between them, and bubbles rising gently. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A confident, modern, upbeat night-time instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Made for the nights you will remember.
+Ice, mint, citrus and sparkling bubbles circle the bottle in the dark. 212 VIP Men is fresh, fruity and confident, with a smooth, slightly sweet base.
+Perfect for nights out, parties and dates. The 10 millilitre bottle starts at 10,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #MensFragrance #NightOut
+	
+
+4. Signature Blend Videos
+Ten videos for the signature blends. Attach your photo of the matching perfume bottle.
+18. Coastal Dream
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Creamy coconut and warm vanilla, sweet and soft, as calm as a sunset by the sea.
+Best used for: Relaxed evenings by the sea, holidays, romantic walks and warm weather with a cozy feeling.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Two coconut halves, whole vanilla pods, white orchid flowers, one thick ribbon of creamy vanilla cream, and tiny gold dust specks. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, soft peach, cream and rose gold. The mood is dreamy, creamy, calm and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny golden dust specks drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny golden dust specks swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, two coconut halves, three vanilla pods and three white orchid flowers glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The ribbon of vanilla cream curves in a graceful S shape through the spiral, with gold dust sparkling in the air. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the coconut halves at the lower sides, the vanilla pods crossed below it, an orchid on each side, and the cream ribbon forming a soft circle. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A dreamy, creamy, relaxed instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+A sunset by the sea, in a bottle.
+Coconut halves, vanilla pods and orchids float around the bottle with a ribbon of creamy vanilla. Coastal Dream is creamy coconut and warm vanilla, calm and sweet.
+Made for relaxed evenings, holidays and warm weather. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #CoastalDream #SignatureBlend
+	
+
+19. Electric Rush
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Energetic and fresh with a sweet tropical twist, juicy and lively.
+Best used for: Daytime parties, pool days, festivals, summer outings and high-energy moods.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop of bright sunshine yellow that is lighter in the center, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy bright white surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Fresh lime slices, pineapple chunks, one halved coconut, green tropical leaves, and bright water droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is sunshine yellow, neon lime, tropical orange and turquoise. The mood is energetic, juicy, sporty and playful.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, four lime slices, three pineapple chunks, a coconut half and two green tropical leaves fall from the top of the frame and land around the bottle, each giving one lively bounce while bright water droplets splash into the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A halved lime and a pineapple chunk sit beside the bottle. A thin ribbon of clear water arcs through the air and splashes softly on the surface beside them, never touching the bottle, with droplets sparkling in the light. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the limes, the pineapple, the coconut half and the leaves, with a few water droplets on the surface, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+An upbeat, sunny, energetic instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Loud, juicy and full of energy.
+Limes, pineapple and coconut bounce around the bottle, and water splashes beside it. Electric Rush is fresh and energetic with a sweet tropical twist.
+Made for pool days, daytime parties and summer outings. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #ElectricRush #SignatureBlend
+	
+
+20. Velvet Noir
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: A fresh opening that melts into warm, smooth vanilla. Elegant and sensual.
+Best used for: Evening dates, dinners and nights that start fresh and become intimate.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a deep, seamless burgundy studio backdrop that fades to near-black at the edges, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+One long ribbon of deep burgundy velvet, fresh green mint leaves, whole vanilla pods, soft wisps of cream-colored smoke, and tiny gold dust specks. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A low, warm key light from the upper left, a cool silver rim light from behind that outlines the bottle, and soft golden reflections on the glass. The color palette is deep burgundy, midnight navy, soft vanilla gold and a small accent of fresh green. The mood is elegant, sensual, smooth and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny gold dust specks drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny gold dust specks swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, the long burgundy velvet ribbon, five mint leaves and three vanilla pods glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The velvet ribbon curves in a graceful S shape, and thin wisps of cream-colored smoke trail softly behind it. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the velvet ribbon forming a soft circle around it, the vanilla pods crossed below it, mint leaves on each side, and gold dust glinting in the air. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A smooth, elegant, sensual evening instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Fresh at first. Smooth and warm after.
+A ribbon of burgundy velvet, mint leaves and vanilla pods drift around the bottle in the dark. Velvet Noir opens fresh and melts into warm, smooth vanilla.
+Made for evening dates and dinners. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #VelvetNoir #SignatureBlend
+	
+
+21. Paradise Mist
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Creamy tropical sweetness with a fresh, airy lift, like a warm island morning wrapped in mist.
+Best used for: Holidays, relaxed mornings and afternoons, warm weather and feel-good everyday wear.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from pale jade green to white, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale white surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Two coconut halves, white orchid flowers, pink hibiscus flowers, a few large green leaves, soft white mist, and tiny water droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is pastel peach, soft pink, jade green and coconut white. The mood is peaceful, magical, fresh and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, two coconut halves, three white orchid flowers and two pink hibiscus flowers fall from the top of the frame and land softly on the surface around the bottle, while two large green leaves settle behind it. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A soft ribbon of white mist rolls slowly across the surface around the base of the bottle, never covering the label. An orchid and a hibiscus flower sit beside the bottle, and tiny water droplets shimmer on the petals. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the coconut halves, the orchids, the hibiscus and the green leaves, with a thin veil of mist at the base, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A peaceful, magical, airy tropical instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+A warm island morning wrapped in mist.
+Coconut halves, orchids and hibiscus land softly around the bottle while a thin mist rolls across its base. Paradise Mist is creamy, tropical and fresh.
+Made for holidays, relaxed days and feel-good everyday wear. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #ParadiseMist #SignatureBlend
+	
+
+22. Tropical Bloom
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Light, romantic flowers wrapped in sweet tropical coconut. Bright and cheerful.
+Best used for: Daytime, garden parties, brunch, holidays, spring and summer outings.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Pink hibiscus flowers, white plumeria flowers, coral blossoms, one halved coconut, a few glossy green leaves, and tiny water droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is hot pink, coral, blossom white and fresh leaf green. The mood is cheerful, blooming, feminine and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny water droplets drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny water droplets swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, three pink hibiscus flowers, three white plumeria flowers, a few coral blossoms, the coconut half and two glossy green leaves glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet, with loose petals trailing behind them. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the hibiscus flowers in a ring around it, plumeria on each side, the coconut half below it, and petals scattered between them. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A cheerful, blooming, sunny instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Flowers, coconut and sunshine.
+Hibiscus, plumeria and coral blossoms float around the bottle with a coconut half. Tropical Bloom is a light, romantic floral wrapped in sweet coconut.
+Made for brunch, garden parties and sunny days. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #TropicalBloom #SignatureBlend
+	
+
+23. Ocean Breeze
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Cool, fresh sea air with a bright, energetic lift. Clean and breezy.
+Best used for: Hot days, outdoor activities, boat trips, sports and everyday freshness.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from pale sky blue to white, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy bright white surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Fresh lemon slices, green mint leaves, smooth sea glass, small white seashells, one thick ribbon of clear sea water, and tiny water droplets. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is sky blue, crisp white, sea-foam green and sunny yellow. The mood is breezy, clean, free and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, four lemon slices, a handful of mint leaves, four pieces of sea glass and two small seashells fall from the top of the frame and land softly on the surface around the bottle in a loose ring, with tiny water droplets sparkling in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A thin ribbon of clear sea water arcs through the air and splashes gently on the surface beside a lemon slice and a seashell, never touching the bottle, with droplets glittering in the light. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the lemon slices, the mint leaves, the sea glass and the shells, with a few water droplets on the surface, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A breezy, free, bright instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Fresh sea air, any time of day.
+Lemon slices, mint, sea glass and shells land around the bottle, and a ribbon of sea water splashes beside it. Ocean Breeze is cool, fresh and breezy.
+Made for hot days, outdoor plans and everyday freshness. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #OceanBreeze #SignatureBlend
+	
+
+24. Midnight Velvet
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Dark, smoky oriental depth softened by sweet, creamy vanilla. Rich, sweet and sensual.
+Best used for: Cold nights, romantic evenings, winter, special occasions and being remembered.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a deep, seamless midnight blue studio backdrop that fades to black at the edges, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Whole vanilla pods, dark red rose petals, one long ribbon of midnight-blue velvet, one thick ribbon of caramel gold, thin curls of amber smoke, and tiny gold sparks. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A warm candle-toned key light from the upper left, a cool blue rim light from behind that outlines the bottle, and a glowing gold reflection on the glass. The color palette is midnight blue, black, caramel gold and deep amber with touches of dark red. The mood is seductive, rich, warm and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny gold sparks drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny gold sparks swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, three vanilla pods, a handful of dark red rose petals and the long midnight-blue velvet ribbon glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The caramel gold ribbon curves in a graceful S shape through the spiral, with thin curls of amber smoke trailing behind it. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the velvet ribbon forming a soft circle around it, the vanilla pods crossed below it, rose petals on each side, and gold sparks glinting in the air. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A deep, rich, seductive instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Dark, sweet and unforgettable.
+Vanilla pods, dark rose petals and ribbons of velvet and caramel gold circle the bottle in the dark. Midnight Velvet is smoky and rich, softened by creamy vanilla.
+Made for cold nights and romantic evenings. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #MidnightVelvet #SignatureBlend
+	
+
+25. Rose Cream
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Soft roses blended with smooth whipped vanilla cream. Romantic, sweet and gentle.
+Best used for: Dates, anniversaries, gifts, romantic moments and soft evenings.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from blush pink to ivory, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale blush pink surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Blush pink roses, soft rose petals, whole vanilla pods, one thick ribbon of whipped cream, and tiny gold dust specks. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is rose pink, cream white, soft gold and ivory. The mood is tender, romantic, sweet and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, three blush pink roses, a handful of rose petals and two vanilla pods fall from the top of the frame and land softly on the surface around the bottle in a loose ring, with tiny gold dust specks sparkling in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A thick ribbon of whipped cream drifts down slowly and forms a soft, glossy swirl on the surface beside a blush rose, never touching the bottle. A single rose petal drifts past, and gold dust shimmers. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the roses, the petals, the vanilla pods and the whipped cream swirl, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A tender, romantic, soft instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Roses and cream. Soft, sweet and romantic.
+Blush roses and vanilla pods land around the bottle, and whipped cream swirls beside a rose. Rose Cream is soft rose with smooth vanilla cream.
+A lovely choice for dates, anniversaries and gifts. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #RoseCream #SignatureBlend
+	
+
+26. Lagoon
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Cool aquatic freshness with sweet creamy coconut, like swimming in a warm island lagoon.
+Best used for: Beach days, island holidays, pool days and midday heat.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Two coconut halves, small white seashells, one white frangipani flower, smooth sea glass, one thick ribbon of clear turquoise water, and tiny bubbles. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, lagoon turquoise, coconut cream and palm green. The mood is cool, sweet, carefree and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny bubbles drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny bubbles swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, two coconut halves, three small seashells, four pieces of sea glass and the white frangipani flower glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The ribbon of turquoise water curves in a graceful S shape through the spiral, and tiny bubbles rise in the air. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the coconut halves at the lower sides, the seashells and sea glass in a ring, the frangipani flower on one side, and the turquoise water ribbon forming a soft circle. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A cool, carefree, sweet tropical instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Like swimming in a warm island lagoon.
+Coconut halves, sea glass, shells and a frangipani flower float around the bottle with a ribbon of turquoise water. Lagoon is cool and aquatic with sweet creamy coconut.
+Made for beach days, pool days and midday heat. Available in 10 millilitre and 30 millilitre bottles. Send us a message for the price.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #Lagoon #SignatureBlend
+	
+
+27. Obsidian Reef
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: A dark but light-feeling aquatic. The mystery of deep oriental wood is cut with a cool, clean sea edge, so it feels thin and not heavy on the skin.
+Best used for: Evenings, nightlife and anyone who wants a bold scent that is darker than a fresh one but lighter than a heavy oriental.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a deep seamless black backdrop that fades to dark navy at the edges, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy polished black glass surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Smooth black volcanic pebbles, one thin ribbon of glowing teal water, glowing teal water droplets, and soft curls of cool white sea mist. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A single cool spotlight from the upper left, a glowing teal rim light from behind that outlines the bottle, and crisp reflections on the black glass. The color palette is black, deep navy, glowing teal and silver. The mood is mysterious, cool, bold and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, five smooth black pebbles fall from the top of the frame and land softly on the polished glass around the bottle in a loose ring, with glowing teal droplets sparkling in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: A thin ribbon of glowing teal water arcs through the air and splashes softly on the glass beside two black pebbles, never touching the bottle, while soft curls of cool white mist drift across the surface without covering the label. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the black pebbles and a few glowing teal droplets, with a thin veil of mist at the base, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A cool, mysterious, deep instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Dark on the surface. Fresh underneath.
+Black pebbles land around the bottle on dark glass, and a ribbon of glowing teal water splashes beside them. Obsidian Reef is a dark aquatic scent that feels thin and light on the skin.
+Made for evenings and nightlife. The 10 millilitre bottle starts at 13,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #ObsidianReef #SignatureBlend
+	
+
+5. Flagship Scent Videos
+Four videos for the flagship scents. They use a more premium look, and the prompts and captions never reveal the ingredient ratios.
+28. Crown Noir
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Sparkling fruity freshness at first, deepening into smoky, commanding warmth. Fresh on top and powerful underneath.
+Best used for: All-day, day-to-night wear for meetings, parties, dates and making an entrance.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a deep, seamless black studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Fresh citrus slices, fine gold dust, dark oud wood chunks, thin curls of amber smoke, and one thick ribbon of liquid gold. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A bright, cool key light from the upper left, a warm amber rim light from the right that outlines the bottle, and sharp golden reflections on the glass. The color palette is black, rich gold, deep amber and a bright citrus yellow accent. The mood is powerful, premium, confident and regal.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few fine gold dust specks drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the fine gold dust specks swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, three bright citrus slices glide in from the left, sparkling in cool light, while three chunks of dark oud wood and thin curls of amber smoke glide in from the right in warm light. They meet around the bottle in a gentle, wide spiral, like a slow ring around a planet, with the ribbon of liquid gold weaving between them in a graceful S shape. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the citrus slices on the left side, the oud wood and the amber smoke on the right side, and the liquid gold ribbon forming a soft circle around everything. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A powerful, premium, confident instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Fresh by day. Commanding by night.
+Bright citrus slices meet dark oud wood and amber smoke around the bottle, joined by a ribbon of liquid gold. Crown Noir opens sparkling and fresh, then deepens into a smoky, powerful base.
+Our flagship scent for men, made for meetings, parties and dates. The 10 millilitre bottle starts at 18,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #CrownNoir #MensFragrance
+	
+
+29. Cashmere Bloom
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Sweet, soft marshmallow comfort wrapped in powdery, elegant flowers. Sweet but graceful.
+Best used for: Everyday signature wear, gifting, romantic occasions and any time from daytime into evening.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a clean, seamless backdrop that fades softly from blush pink to cream, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy pale cream surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Pale pink peonies, soft white marshmallows, one long ribbon of soft blush-colored fabric, and a fine cloud of white powder. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin rim light from behind, glossy reflections on the surface and soft highlights on the glass. The color palette is blush pink, cream, powder white, soft lilac and warm gold. The mood is gentle, luxurious, warm and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, three pale pink peonies and four soft marshmallows fall from the top of the frame and land softly on the surface around the bottle in a loose ring, with a small puff of white powder rising where they land. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: The long blush-colored fabric ribbon floats down slowly and settles in a soft S curve on the surface beside a peony, never touching the bottle. A fine cloud of powder drifts slowly across the frame behind it. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the peonies, the marshmallows and the soft blush ribbon, with a light haze of powder, all neat, balanced and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A gentle, warm, luxurious instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Soft, sweet and quietly luxurious.
+Peonies and marshmallows land softly around the bottle while a blush ribbon floats down beside it. Cashmere Bloom is sweet marshmallow comfort wrapped in powdery, elegant flowers.
+Our flagship scent for women, made for everyday wear, gifts and romantic evenings. The 10 millilitre bottle starts at 18,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #CashmereBloom #WomensFragrance
+	
+
+30. Azure VIP
+Video style: The bottle floats in a plain studio background and the scent ingredients move around it.
+How it smells: Bright, clean citrus freshness settling into smooth, warm vanilla. Calm, refined and quietly confident.
+Best used for: Everyday wear, the office, daytime, meetings and anyone who wants to smell neat without being overpowering.
+Attach to Google Flow: Your photo of the perfume bottle.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, joined by smooth, soft transitions. The background is a pure, clean, seamless white studio backdrop, with no horizon line, no floor line and no shadows on the background. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle floats weightlessly in mid-air, perfectly upright, with the cap at the top and the label facing the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Fresh citrus slices, one whole vanilla pod, one thick ribbon of azure-blue water, one thick ribbon of vanilla cream, and tiny gold dust specks. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A large, soft studio light from the upper left, a thin bright rim light from behind that outlines the bottle, and soft reflections on the glass. The color palette is white, azure blue, soft vanilla cream and light gold. The mood is calm, polished, composed and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE REVEAL.
+Shot: a wide shot slowly pushing in to a medium shot. Action: the bottle floats alone in the center of the empty space and turns very slightly left and then right, no more than about 15 degrees, so the label always stays readable. One bright streak of light sweeps across the glass from left to right. Sound: a soft, airy chime on the reveal. Transition: a soft light flash.
+[00:02.5 to 00:05] SCENE 2, THE DETAIL.
+Shot: a close macro shot of the cap and the upper part of the bottle, with the camera sliding slowly from left to right and a very shallow depth of field. Action: The cap, the glass and the liquid catch the light, and the liquid inside shimmers as the bottle sways gently. A few tiny golden dust specks drift through the blurred foreground. Sound: a quiet, warm shimmer. Transition: the tiny golden dust specks swell into a soft glowing blur that fills the frame, then clears.
+[00:05 to 00:07.5] SCENE 3, THE INGREDIENTS.
+Shot: a medium shot with the bottle in the center and the camera nearly still. Action: In slow motion, four citrus slices and two vanilla pods glide in from outside the frame and travel around the bottle in a gentle, wide spiral, like a slow ring around a planet. The azure-blue water ribbon curves in a graceful S shape through the spiral, and the vanilla cream ribbon curves the opposite way. The bottle stays still and sharp in the center, and nothing passes in front of its label. Sound: a soft rising shimmer with a gentle whoosh as the ingredients arrive. Transition: the ring of ingredients expands outward.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera pulls back smoothly to a medium-wide shot. Action: The ingredients slow down and settle into a balanced arrangement hovering around the bottle: the citrus slices in a ring around it, the vanilla pods crossed below it, and the azure and cream ribbons forming a soft circle. Everything floats gently. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light across the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A calm, polished, quietly confident instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Clean, calm and quietly confident.
+Citrus slices, a vanilla pod and ribbons of azure water and cream circle the bottle in a bright white studio. Azure VIP opens fresh and settles into smooth, warm vanilla.
+Our calm flagship scent for men, made for the office and everyday wear. The 10 millilitre bottle starts at 18,000 Tzs.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #AzureVIP #MensFragrance
+	
+
+31. Onyx Bloom
+Video style: The bottle stands on a glossy flat surface in a plain studio and the scent ingredients fall and swirl around it.
+How it smells: Bold, dark, oriental power softened by a romantic floral heart. A statement scent.
+Best used for: Evenings, going out, special occasions and being remembered.
+Attach to Google Flow: Your photo of the perfume bottle.
+Status in the Perfume Standard Operating Procedures: on hold until Tom Ford Noir Extreme is back in stock. Prepare this video now so it is ready for the launch announcement.
+Prompt to copy into Google Flow (copy everything inside the box):
+FORMAT AND STYLE
+A 10 second vertical video, 9:16 aspect ratio, 24 frames per second. A photorealistic, high-end studio commercial, as if filmed on a cinema camera with a macro lens and professional studio lighting. It has four scenes of about 2.5 seconds each, each from a different camera angle, joined by smooth, soft transitions. The background is a deep seamless black backdrop that fades to charcoal at the edges, with no horizon line. There are no people, no hands, no cars, no on-screen text, no subtitles, no logos and no watermarks anywhere in the video.
+THE PRODUCT (use the attached reference image as the exact product)
+The hero product is the perfume bottle shown in the attached image. Reproduce it exactly as it appears in the image: the same bottle shape and proportions, the same glass, the same liquid color, the same cap, and the same label and printing. Do not redesign, enlarge, recolor or invent anything on it, and do not add any text to it. The bottle stands perfectly upright and completely still in the center of a flat, glossy polished black onyx with thin gold veins surface that shows a soft, realistic reflection and a soft shadow. The label faces the camera. The bottle never changes shape, size, color or label in any scene, its label stays readable, and it is always the sharpest and most important object in the frame.
+THE INGREDIENTS (use only these, nothing else)
+Deep red roses, dark plum rose petals, thin curls of amber smoke, and fine gold dust. The ingredients never touch, cover or hide the bottle's label.
+LIGHTING AND COLOR
+A single soft spotlight from the upper left, a warm amber rim light from behind that outlines the bottle, and glossy reflections on the onyx. The color palette is onyx black, deep rose red, plum and dark gold. The mood is powerful, feminine, mysterious and premium.
+SCENE BY SCENE
+[00:00 to 00:02.5] SCENE 1, THE LOW ANGLE HERO.
+Shot: the camera sits very low, at the level of the surface, looking up at the bottle, and slowly arcs from the left to the right by about 20 degrees. Action: the bottle stands tall and proud, with its reflection glowing on the glossy surface. One bright streak of light sweeps across the glass. Sound: a soft, bright chime. Transition: a soft light bloom that fades into the next scene.
+[00:02.5 to 00:05] SCENE 2, THE INGREDIENTS ARRIVE.
+Shot: a medium front shot with a still camera. Action: In slow motion, three deep red roses and a handful of dark plum petals fall from the top of the frame and land softly on the onyx around the bottle in a loose ring, with fine gold dust drifting in the air. Nothing touches the bottle. Sound: soft, rounded thuds as each item lands and a bright sparkle. Transition: a quick, smooth rise of the camera upward.
+[00:05 to 00:07.5] SCENE 3, THE CLOSE-UP.
+Shot: a close macro shot at a slight angle, with the camera sliding slowly from right to left and a shallow depth of field, with the bottle sharp in the middle and the ingredients softly blurred. Action: Thin curls of amber smoke rise slowly from beside a deep red rose and curl upward in slow motion, lit by a warm amber light, with gold dust glinting inside the smoke. The smoke never covers the label. Sound: a soft, creamy shimmer. Transition: a soft light flash.
+[00:07.5 to 00:10] SCENE 4, THE HERO HOLD.
+Shot: the camera rises and tilts to a high angle of about 45 degrees and then pulls back slowly to reveal the full arrangement. Action: The finished scene shows the bottle in the center, surrounded by the roses and the dark petals, with soft curls of smoke rising behind it, all neat and still. The bottle sits in the lower middle of the frame, with clean empty space in the upper third for text to be added later. In the last half second the motion becomes almost still, with one small glint of light on the glass. Sound: the music resolves into one warm final note.
+AUDIO OVERALL
+A deep, bold, feminine and mysterious instrumental with a gentle build, a soft whoosh on each transition and a gentle shimmer when the ingredients appear. No vocals and no spoken words.
+AVOID
+No text, subtitles, logos or brand names. No changes to the bottle's shape, color, cap or label. No people, hands, cars or other objects. No ingredients covering or touching the bottle. No cartoon or animated style. No sudden jumps, flickering or morphing of the bottle. No spoken dialogue.
+	
+
+Caption to copy with the video:
+Something bold is coming.
+Deep red roses and dark petals land on black onyx while curls of smoke rise behind the bottle. Onyx Bloom is a bold, dark scent softened by a romantic floral heart.
+Our strong flagship scent for women, made for evenings and special occasions. Coming soon.
+Send us a message to order yours.
+#NolMart #NolMartScents #Perfume #OnyxBloom #ComingSoon
+	
+
+6. Fix Sentences for Common Problems
+Add one of these sentences to the end of the original prompt and generate again. Keep your product photo attached.
+The cord has an extra branch, fork or loop (car air fresheners)
+EXTRA RULE: the cord must be exactly one single thin strand, copied from my attached photo, in every scene. It must have no branches, no forks, no extra strands, no extra loops, no knots and no loose ends. If the cord is difficult to show, keep it small, simple and in the same position as in my photo.
+	
+
+The bottle changes shape, color, cap or label between scenes
+EXTRA RULE: the bottle must be identical to my attached photo in every scene: the same shape, glass, liquid color, cap and label. It must never morph, change size or change color. Keep the camera movement slow so the bottle stays consistent.
+	
+
+Ingredients pass in front of the label
+EXTRA RULE: every ingredient must move around and behind the bottle in a wide ring and must never cross in front of the label. Keep a clear gap between the bottle and every ingredient.
+	
+
+The video is too busy or too fast
+EXTRA RULE: simplify the video. Use only half as many ingredient pieces, slow every movement down by about one third, and keep the same colors and the same four scenes.
+	
+
+The bottle moves, tips over or wobbles (surface videos)
+EXTRA RULE: the bottle stays perfectly upright and completely still on the surface in every scene. Only the camera and the ingredients move. Nothing hits or touches the bottle.
+	
+
+Text, logos or extra objects appear in the video
+EXTRA RULE: remove all text, letters, numbers, logos, watermarks, people, hands and any object that is not in the ingredient list. The only text allowed is the original label on the bottle.
+	
+
+The ending has no clean space for your text
+EXTRA RULE: in the final scene, place the bottle in the lower middle of the frame and keep the upper third of the frame completely empty and clean, with only the plain background, so text can be added later.
+	
+
+NolMart Scents video prompts   |   Page

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>NolMart Post Tracker | Mobile Content Engine</title>
+  
+  <!-- SEO & Social Meta -->
+  <meta name="description" content="Mobile tracking web app for NolMart 30-Day Content Calendar, Scents Image Prompts, Video Prompts, and Launch Playbook.">
+  <meta name="theme-color" content="#0B0F19">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="NolMart Posts">
+  
+  <!-- PWA Manifest & Icons -->
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="icons/icon-512.png">
+  
+  <!-- Google Fonts: Plus Jakarta Sans & Cinzel Luxury -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="app-container">
+    
+    <!-- STICKY APP HEADER -->
+    <header class="app-header">
+      <div class="brand-row">
+        <div class="brand-identity">
+          <div class="brand-avatar">
+            <img src="icons/icon-192.png" alt="NolMart Scents Logo">
+          </div>
+          <div class="brand-titles">
+            <h1>NolMart Scents <span class="brand-badge">Tracker</span></h1>
+            <p>135 Posts • Verbatim Prompts & Captions</p>
+          </div>
+        </div>
+
+        <div class="header-actions">
+          <!-- Backup Export -->
+          <button class="header-btn" id="backupBtn" title="Export Backup JSON">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="7 10 12 15 17 10"></polyline>
+              <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+          </button>
+          <!-- Backup Import -->
+          <label class="header-btn" title="Restore Backup JSON" style="margin: 0; cursor: pointer;">
+            <input type="file" id="restoreInput" accept=".json" style="display: none;">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="17 8 12 3 7 8"></polyline>
+              <line x1="12" y1="3" x2="12" y2="15"></line>
+            </svg>
+          </label>
+        </div>
+      </div>
+
+      <!-- PROGRESS TRACKER METRIC -->
+      <div class="progress-container">
+        <div class="progress-info">
+          <span class="progress-label">Overall Progress</span>
+          <div class="progress-numbers">
+            <span id="progressNumbers">0 of 135 posted</span>
+            <span class="progress-pct" id="progressPct">0%</span>
+          </div>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" id="progressFill"></div>
+        </div>
+      </div>
+    </header>
+
+    <!-- INSTALL PWA BANNER -->
+    <div class="install-banner" id="installBanner" style="display: none;">
+      <div class="install-text">
+        <h4>📲 Install on Your Phone</h4>
+        <p>Add to Home Screen for fast offline access & 1-tap prompts!</p>
+      </div>
+      <div style="display: flex; gap: 6px; align-items: center;">
+        <button class="install-btn" id="installAppBtn">Install</button>
+        <button class="close-modal-btn" id="closeInstallBanner" style="color: #94A3B8;">✕</button>
+      </div>
+    </div>
+
+    <!-- SEARCH BAR -->
+    <div class="search-box">
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="text" class="search-input" id="searchInput" placeholder="Search prompts, captions, days, scents, hashtags..." autocomplete="off">
+      <button class="clear-search-btn" id="clearSearchBtn">✕</button>
+    </div>
+
+    <!-- DOCUMENT SOURCE TABS (Horizontal Scroll) -->
+    <div class="doc-tabs-wrapper">
+      <div class="doc-tabs" id="docTabs">
+        <!-- Rendered by app.js -->
+      </div>
+    </div>
+
+    <!-- SECONDARY FILTER BAR -->
+    <div class="secondary-filter-bar">
+      <!-- Status Pills -->
+      <div class="status-pills">
+        <button class="status-pill active" data-status="all">All Posts</button>
+        <button class="status-pill status-unposted" data-status="unposted">⏳ Unposted</button>
+        <button class="status-pill status-posted" data-status="posted">✓ Posted</button>
+      </div>
+
+      <!-- Format Filter Dropdown -->
+      <div class="format-select-wrapper">
+        <select id="formatSelect" aria-label="Filter by format">
+          <option value="all">All Formats</option>
+          <option value="video">🎥 Videos</option>
+          <option value="carousel">📑 Carousels</option>
+          <option value="image">🖼️ Images & Photos</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Active Filter Summary -->
+    <div class="filter-summary-row">
+      <span id="filterResultsCount">Showing 135 posts</span>
+      <span style="color: var(--gold-light); font-weight: 600;">100% Verbatim</span>
+    </div>
+
+    <!-- POSTS FEED -->
+    <main class="posts-feed" id="postsFeed">
+      <!-- Rendered dynamically by app.js -->
+    </main>
+
+  </div>
+
+  <!-- FLOATING SCROLL TO TOP -->
+  <button class="scroll-top-btn" id="scrollTopBtn" title="Scroll to top">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="18 15 12 9 6 15"></polyline>
+    </svg>
+  </button>
+
+  <!-- TOAST NOTIFICATION -->
+  <div class="toast-notice" id="toastNotice">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="20 6 9 17 4 12"></polyline>
+    </svg>
+    <span id="toastText">Copied to Clipboard!</span>
+  </div>
+
+  <!-- SCRIPTS -->
+  <script src="data/posts_data.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

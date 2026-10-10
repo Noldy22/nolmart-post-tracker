@@ -1,0 +1,624 @@
+﻿NolMart Scents
+Image Generation Prompts for Instagram
+Forty-three ready-to-paste prompts for ChatGPT image generation, in two parts. Part one (Sections 3 to 6) has 27 scent introduction prompts: 9 pure perfume scents, 10 signature blends, 4 flagship scents and 4 car air freshener scents. Each of those images shows how a scent smells and when it is best used, using only color, light and setting, with no words inside the picture. Part two (Section 7) has 16 creative sales post prompts: fun, attention-grabbing ideas with overlay text, built to get shares, comments and orders.
+Prepared in October 2026 from the NolMart Perfume Standard Operating Procedures (version 3.1) and the NolMart Car Air Freshener Standard Operating Procedures (version 1.2).
+1. How to Use This Document
+1. Take one clear photo of your real bottle (or hanging bottle, or gel tin) on a plain background. Shoot it straight on, in good light, with the label sharp and fully readable. The same photo can be reused for every prompt of that product.
+2. Open ChatGPT and start a new chat for every scent. A new chat stops the colors and props of the previous scent from leaking into the next one.
+3. Attach your bottle photo to the chat, then copy the full prompt from the shaded box and paste it in. Send it.
+4. Check the result. The bottle must look exactly like your photo, the label must be correct, and there must be no extra words. If something is wrong, use the follow-up prompts in Section 8.
+5. Save the image and post it. For the scent introduction images (Sections 3 to 6), put the scent name, price and how to order in the caption and not in the image, so the picture itself explains the scent silently, like the page you took inspiration from. The creative sales posts in Section 7 are different: they carry short overlay text written inside each prompt.
+About the picture size: every prompt asks for a 4:5 vertical image (1080 by 1350 pixels), which is the standard portrait size for an Instagram post and the same ratio used by the page in your screenshots. ChatGPT sometimes returns a slightly different pixel size. If that happens, crop or resize it to 1080 by 1350 pixels without stretching it. The prompts also keep the bottle in the middle so nothing important is cut off in the profile grid.
+About the formulas: the flagship scents are private house blends. These prompts describe only the smell and the mood, never the ingredient ratios, so you can safely share the images and the prompts.
+About the brand names: some of your pure scents are named after designer fragrances. The prompts never use those names, so ChatGPT will not try to draw other companies' logos. Only the text already printed on your own bottle will appear.
+2. The Visual Language Behind the Prompts
+Each scent family always uses the same colors, light and props, so that viewers learn to read your pictures. After a few posts, people will understand a scent just by seeing the colors, even before they read the caption.
+Scent family
+	Colors
+	Light and time of day
+	Tells the viewer it is for
+	Fresh and aquatic
+	Turquoise, aqua, ice white, lime green
+	Bright morning or midday sunlight, sparkling water
+	Daytime, hot weather, sports, after a shower
+	Sweet and creamy
+	Cream, caramel, blush pink, honey gold
+	Warm golden hour or candlelight, soft glow
+	Cozy evenings, dates, comfort, gifts
+	Tropical
+	Coral, sunset orange, turquoise, coconut white
+	Golden sunset or bright noon sun
+	Holidays, beach, weekends, summer
+	Soft floral
+	Blush, lilac, peach, cream, soft gold
+	Soft window daylight, gentle haze
+	Office, brunch, weddings, daytime elegance
+	Dark and oriental
+	Black, burgundy, amber, gold, midnight blue
+	Single spotlight, candlelight or moonlight
+	Evenings, nightlife, formal events, cold weather
+	Fresh fruity nightlife
+	Electric blue, silver, magenta, icy white
+	City lights at dusk and night, neon sparkle
+	Parties, nights out, going out with friends
+	3. Pure Perfume Scents
+These nine prompts match the nine pure scents in the Perfume Standard Operating Procedures, version 3.1.
+1. Now Rave
+How it smells: Fresh, energetic and clean, with a bright sparkling lift that suits anyone.
+Best used for: Daytime, sports and gym sessions, hot weather, casual outings and busy days.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene on a bright, sunny morning. The bottle stands on a glossy white wet surface in the middle of a dramatic burst of splashing clear water, with the water frozen in mid-air as sparkling droplets. Fresh lime and lemon slices, green mint leaves and tiny ice crystals fly around the bottle. The background is a clean, bright sky blue with a soft sunburst glare, giving a feeling of energy, motion and cleanliness.
+Color palette: electric lime green, aqua turquoise, bright white and sunshine yellow. Lighting: crisp, high-key morning sunlight with sparkling highlights on every water droplet and a gentle lens flare. Mood: awake, athletic, joyful and full of energy. The viewer should instantly feel a fresh, clean, energizing scent made for the daytime.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+2. Coconut Passion
+How it smells: Sweet, tropical and warm, like creamy coconut with juicy passion fruit.
+Best used for: Beach days, holidays, warm afternoons, weekends and sunny celebrations.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene on a tropical beach at golden hour. The bottle sits half-buried in warm, soft sand beside freshly cracked coconut halves with white creamy flesh, ripe halved passion fruit with glistening seeds, and white frangipani flowers. Long palm leaf shadows fall across the sand, and out-of-focus turquoise ocean waves shine in the background.
+Color palette: coconut white, sunset peach, golden yellow, warm coral and soft turquoise. Lighting: warm golden-hour sunlight from the side, a glowing rim light on the glass and a soft sun haze. Mood: relaxed, sweet, sunny and holiday-like. The viewer should instantly feel a creamy, tropical, sun-warmed scent made for the beach and warm afternoons.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+3. Vanilla 28
+How it smells: Warm, creamy and sweet, as comforting as fresh vanilla cream and soft caramel.
+Best used for: Cool evenings, nights at home, date nights, cozy gatherings and anyone who loves comforting sweet scents.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene as a cozy, candlelit evening. The bottle stands on a dark wooden table surrounded by whole vanilla pods, small white vanilla orchids, a swirl of thick cream and a drizzle of golden caramel. Several lit candles glow behind it, and a soft knitted blanket and a steaming cup sit out of focus in the background, with delicate warm steam rising.
+Color palette: vanilla cream, honey gold, caramel amber and soft warm brown. Lighting: low, warm candlelight with gentle glowing highlights on the glass and a creamy, softly blurred background. Mood: comforting, intimate, calm and indulgent. The viewer should instantly feel a warm, creamy, sweet scent made for quiet, cozy evenings.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+4. Pink Chiffon
+How it smells: Light, airy and floral, soft and romantic like fresh peonies and roses.
+Best used for: Spring and daytime wear, brunches, romantic dates, weddings and soft feminine occasions.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene in a bright, airy room beside a window in the morning. The bottle stands on a pale surface while sheer pink chiffon fabric floats and billows around it as if caught in a gentle breeze. Fresh peonies, pink roses and loose petals surround the bottle, a few petals drift through the air, and tiny dew drops sit on the flowers.
+Color palette: blush pink, pearl white, soft rose and light champagne gold. Lighting: soft, diffused natural window light with a dreamy glow and a gentle haze. Mood: romantic, graceful, light and feminine. The viewer should instantly feel a delicate floral scent made for sunny mornings, brunch and romance.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+5. Tom Ford Noir Extreme
+How it smells: Dark, rich and oriental, with deep amber, warm spice and smoky wood. Bold and mysterious.
+Best used for: Late evenings, nightlife, formal events, cold weather and confident, memorable entrances.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene in darkness. The bottle stands on a polished black marble surface with thin veins of gold. Curling ribbons of amber incense smoke rise around it, with chunks of dark oud wood, a few threads of red saffron, dark amber resin and a scattering of gold dust at its base. The background is almost black with deep burgundy depth.
+Color palette: black, deep amber, burnished gold, dark burgundy and a touch of copper. Lighting: a single dramatic spotlight from above and one side with a glowing amber rim light on the glass, and deep shadows everywhere else. Mood: powerful, luxurious, mysterious and sensual. The viewer should instantly feel a dark, warm, spicy scent made for nighttime and special occasions.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+6. Reef
+How it smells: Fresh, aquatic and clean, like cool sea water and sea mist after a shower.
+Best used for: Hot days, after a shower, sports, the office in warm weather, beach trips and everyday freshness.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene underwater in a crystal-clear tropical sea. The bottle is half-submerged and rising from rippling turquoise water, with streams of tiny bubbles around it. Rays of sunlight shine down through the surface and create shimmering light patterns on the white sand below. Smooth sea glass, delicate coral shapes and a soft sea mist hang near the water line.
+Color palette: deep ocean blue, turquoise, aqua, sea-foam white and silver. Lighting: bright sunlight breaking through the water surface, glowing light patterns and crisp reflections on the glass. Mood: cool, calm, clean and refreshing. The viewer should instantly feel a cool, salty, aquatic scent made for hot days and clean freshness.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+7. Burberry Weekend
+How it smells: Soft, powdery and floral with a zesty mandarin opening and a gentle woody, musky finish. Relaxed and elegant.
+Best used for: Office wear, daytime elegance, weekend brunch and understated, put-together occasions.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene on a pale linen-covered table in a sunlit room on a weekend morning. The bottle stands beside fresh mandarin slices, white hyacinth, soft lilac irises, a ripe peach and a small piece of pale sandalwood. A light cloud of fine white powder drifts softly in the air behind the bottle, and a folded cashmere sweater sits blurred in the background.
+Color palette: cream, soft lilac, peach, pale mandarin orange and warm ivory. Lighting: soft, bright morning window light with clean, gentle shadows. Mood: calm, refined, composed and quietly luxurious. The viewer should instantly feel a soft, powdery, floral scent with a fresh citrus lift made for elegant daytime wear.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+8. Marshmallow
+How it smells: Sweet, soft and sugary, like fresh marshmallow and warm vanilla candy. Playful and comforting.
+Best used for: Casual days, young and playful moods, cozy hangouts, gifting and anyone who loves sweet, dessert-like scents.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene in a playful, dreamy pastel world. The bottle stands among soft, fluffy pink and white marshmallows, tufts of cotton candy and fine clouds of powdered sugar floating in the air. Pillowy cream-colored shapes and tiny sprinkles surround the bottle, and the background is a smooth gradient of baby pink and white.
+Color palette: baby pink, marshmallow white, soft cream and pale lavender. Lighting: bright, soft and even studio light with a gentle glow and a light dusting of sparkle. Mood: sweet, cheerful, soft and cuddly. The viewer should instantly feel a sugary, fluffy, comforting scent that suits every day.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+9. 212 VIP Men
+How it smells: Fresh, fruity and aromatic, with sparkling citrus and cool mint over a smooth, slightly sweet base. Confident and modern.
+Best used for: Nights out, parties, dates, celebrations and any evening that calls for high energy.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene at night on a glossy black reflective surface with a glittering city skyline blurred behind it. The bottle is surrounded by crushed ice, sparkling bubbles, fresh mint leaves and slices of citrus. Tiny golden bubbles rise through the air like a celebration, and soft glowing party lights shine in the background.
+Color palette: electric blue, silver, icy white, hints of magenta and touches of champagne gold. Lighting: cool neon-style city lighting with bright sparkling highlights and sharp reflections on the glass. Mood: confident, social, energetic and modern. The viewer should instantly feel a fresh, fruity, icy scent made for parties and nights out.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+4. Signature Blends
+These ten prompts match the finished signature blends. Each one mixes the visual world of its parent scents, so a viewer can see the blend is a new scent that sits between two worlds.
+10. Coastal Dream
+How it smells: Creamy coconut and warm vanilla, sweet and soft, as calm as a sunset by the sea.
+Best used for: Relaxed evenings by the sea, holidays, romantic walks and warm weather with a cozy feeling.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene on a quiet beach at sunset. The bottle sits on smooth, pale sand beside a coconut half filled with swirling vanilla cream, a few vanilla pods and white orchids. Gentle waves roll in softly behind it, with a large, low, glowing sun touching the horizon.
+Color palette: peach, soft cream, rose gold, warm vanilla yellow and a hint of calm turquoise. Lighting: warm, low sunset light with a gentle glow, a soft haze and golden reflections on the glass and the wet sand. Mood: dreamy, creamy, peaceful and romantic. The viewer should instantly feel a sweet, creamy, tropical scent made for slow evenings by the sea.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+11. Electric Rush
+How it smells: Energetic and fresh with a sweet tropical twist, juicy and lively.
+Best used for: Daytime parties, pool days, festivals, summer outings and high-energy moods.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene at a sunny pool party in the middle of the day. The bottle stands on the wet edge of a bright blue swimming pool, with a huge splash of water exploding behind it. Halved coconuts, lime slices, pineapple and tropical leaves fly through the air, and sparkling droplets freeze in mid-air.
+Color palette: neon lime, tropical orange, electric turquoise, bright white and hot pink accents. Lighting: bright midday sun, vivid saturated color, strong sparkling highlights and a feeling of fast motion. Mood: loud, fun, sporty and summery. The viewer should instantly feel a juicy, energetic, tropical scent made for sunny daytime fun.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+12. Velvet Noir
+How it smells: A fresh opening that melts into warm, smooth vanilla. Elegant and sensual.
+Best used for: Evening dates, dinners and nights that start fresh and become intimate.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene in an elegant dark room with heavy deep burgundy velvet curtains and a velvet-covered table. The bottle stands on the velvet with a few fresh green mint leaves and vanilla pods beside it. A glass of sparkling water with ice sits blurred behind it, and thin, silky wisps of cream-colored smoke curl around the bottle.
+Color palette: deep burgundy, midnight navy and soft vanilla gold, with a small sparkle of fresh green. Lighting: low, warm lamplight with a cool rim light from behind and rich, soft shadows. Mood: elegant, sensual, smooth and intimate. The viewer should instantly feel a scent that opens fresh and settles into warm vanilla, made for a special evening.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+13. Paradise Mist
+How it smells: Creamy tropical sweetness with a fresh, airy lift, like a warm island morning wrapped in mist.
+Best used for: Holidays, relaxed mornings and afternoons, warm weather and feel-good everyday wear.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene in a hidden tropical lagoon at sunrise, with thick white mist floating over still water. The bottle stands on a smooth stone beside coconut halves, orchids, hibiscus flowers and large green leaves. Soft mist swirls around the base, and distant palm trees fade into the haze.
+Color palette: pastel peach, soft pink, jade green, coconut white and misty lavender-blue. Lighting: soft golden sunrise rays pushing through the mist with glowing highlights on the glass. Mood: peaceful, magical, fresh and sweet. The viewer should instantly feel a creamy, tropical, airy scent made for gentle, happy days.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+14. Tropical Bloom
+How it smells: Light, romantic flowers wrapped in sweet tropical coconut. Bright and cheerful.
+Best used for: Daytime, garden parties, brunch, holidays, spring and summer outings.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene in a sunlit tropical garden. The bottle stands on a white stone surface surrounded by pink hibiscus, white plumeria, coral-colored blossoms, a halved coconut and large glossy leaves. Delicate petals float in the air, and a softly blurred garden path glows in the background.
+Color palette: hot pink, coral, blossom white, fresh leaf green and warm sunshine yellow. Lighting: bright, warm late-morning sunlight with soft shadows and glowing petals. Mood: cheerful, blooming, feminine and summery. The viewer should instantly feel a floral, sweet, tropical scent made for sunny daytime occasions.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+15. Ocean Breeze
+How it smells: Cool, fresh sea air with a bright, energetic lift. Clean and breezy.
+Best used for: Hot days, outdoor activities, boat trips, sports and everyday freshness.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene on a boat deck on a bright, breezy day. The bottle stands on a white deck rail with a blurred wide blue ocean and a white sail in the background. Sea spray bursts into the air, a coil of rope sits nearby, and fresh lemon slices and mint leaves rest beside the bottle.
+Color palette: ocean blue, sky blue, crisp white, sunny yellow and sea-foam green. Lighting: bright midday sun, sparkling water and glittering sea-spray highlights. Mood: free, breezy, clean and adventurous. The viewer should instantly feel a cool, salty, fresh scent made for open air and hot days.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+16. Midnight Velvet
+How it smells: Dark, smoky oriental depth softened by sweet, creamy vanilla. Rich, sweet and sensual.
+Best used for: Cold nights, romantic evenings, winter, special occasions and being remembered.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene in a luxurious midnight setting with draped midnight-blue velvet fabric and a dark glossy surface. The bottle stands among vanilla pods, curls of amber smoke, shiny drips of liquid caramel gold and a few dark red rose petals. Candle flames glow softly in the background, and tiny gold sparks float like stars.
+Color palette: midnight blue, black, caramel gold, deep amber and touches of dark red. Lighting: warm candlelight against cool blue shadows, with a glowing gold rim light on the glass. Mood: seductive, rich, cozy and dark. The viewer should instantly feel a deep, sweet, smoky scent made for late, romantic nights.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+17. Rose Cream
+How it smells: Soft roses blended with smooth whipped vanilla cream. Romantic, sweet and gentle.
+Best used for: Dates, anniversaries, gifts, romantic moments and soft evenings.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene as an intimate romantic table. The bottle stands on a pale satin cloth surrounded by blush roses, scattered petals and soft swirls of whipped cream. A small bowl of vanilla cream, a few vanilla pods and softly glowing candles sit nearby, with a single petal drifting in the air.
+Color palette: rose pink, cream white, soft gold and ivory. Lighting: warm golden candlelight with a soft romantic glow and a gentle haze. Mood: tender, romantic and sweet. The viewer should instantly feel a creamy, rosy, gentle scent made for love and special evenings.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+18. Lagoon
+How it smells: Cool aquatic freshness with sweet creamy coconut, like swimming in a warm island lagoon.
+Best used for: Beach days, island holidays, pool days and midday heat.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene at a tropical lagoon in the middle of the day. The bottle stands on a smooth white sandbar with crystal-clear shallow turquoise water around it. Coconut halves, seashells and a floating frangipani flower sit beside it. In the background are blurred palm trees on a small island under a bright blue sky.
+Color palette: lagoon turquoise, sand white, coconut cream, palm green and sky blue. Lighting: strong, bright midday sun with sparkling water reflections on the glass. Mood: carefree, cool, sweet and tropical. The viewer should instantly feel a cool, creamy, aquatic scent made for sunny days by the water.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+19. Obsidian Reef
+How it smells: A dark but light-feeling aquatic. The mystery of deep oriental wood is cut with a cool, clean sea edge, so it feels thin and not heavy on the skin.
+Best used for: Evenings, nightlife and anyone who wants a bold scent that is darker than a fresh one but lighter than a heavy oriental.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene at night at the edge of a dark volcanic shoreline. The bottle stands on a shiny black obsidian rock with dark ocean waves breaking softly around it. Glowing, bioluminescent teal water ripples between the black rocks, thin sea mist rolls across the surface, and a pale moon reflects on the water.
+Color palette: obsidian black, deep ocean navy, glowing teal, silver moonlight and a touch of dark gold. Lighting: cool moonlight, a crisp rim light on the glass and a glowing teal reflection. Mood: mysterious, cool, bold and fresh-yet-dark. The viewer should instantly feel a dark, watery, mysterious scent made for the night.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+5. Flagship Scents
+The four flagship scents come as two pairs, a strong one and a calm one for each gender. They use a more premium look, and the prompts never reveal the ingredient ratios.
+20. Crown Noir (men, strong)
+How it smells: Sparkling fruity freshness at first, deepening into smoky, commanding warmth. Fresh on top and powerful underneath.
+Best used for: All-day, day-to-night wear for meetings, parties, dates and making an entrance.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Show one single image that moves from day to night. The left side of the scene is a bright, sunlit city morning with a crisp blue sky and sparkling citrus-colored light, and the right side melts into a dark, smoky night with a glowing city skyline and an amber haze. The bottle stands in the center on a black marble and gold surface, exactly where day and night meet. Curls of fine smoke rise on the dark side and bright sparkling glints shine on the light side. Do not draw a crown or any logo.
+Color palette: black, rich gold, deep amber, silver-blue sky and sparkling white. Lighting: bright daylight on one side transitioning smoothly into a dramatic spotlight and amber glow on the other. Mood: powerful, premium, confident and regal. The viewer should instantly feel a scent that is fresh by day and commanding by night.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+21. Cashmere Bloom (women, calm)
+How it smells: Sweet, soft marshmallow comfort wrapped in powdery, elegant flowers. Sweet but graceful.
+Best used for: Everyday signature wear, gifting, romantic occasions and any time from daytime into evening.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene around luxurious, softly folded blush and cream cashmere fabric. The bottle rests on the fabric among delicate peonies, soft wisps of powder cloud, tiny puffs of marshmallow and a drifting haze of fine powder in the air. A subtle golden light grows warmer toward the right side of the image, suggesting daytime turning into evening.
+Color palette: blush pink, cream, powder white, soft lilac and warm gold. Lighting: soft golden daylight turning gently into a rosy evening glow, with creamy highlights on the glass. Mood: gentle, luxurious, warm and feminine. The viewer should instantly feel a soft, sweet, powdery floral scent that works from morning to evening.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+22. Azure VIP (men, calm)
+How it smells: Bright, clean citrus freshness settling into smooth, warm vanilla. Calm, refined and quietly confident.
+Best used for: Everyday wear, the office, daytime, meetings and anyone who wants to smell neat without being overpowering.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene on a clean, light stone desk in a bright modern office beside a large window on a clear morning. The bottle stands next to fresh citrus slices, a single vanilla pod, a small glass of water and a folded linen cloth. Through the window is a clear azure blue sky, and a soft gradient runs from azure blue at the top of the image to warm vanilla cream at the bottom.
+Color palette: azure blue, crisp white, soft vanilla cream and light gold. Lighting: clean, bright morning daylight with soft, tidy shadows and a gentle glow. Mood: calm, polished, composed and quietly confident. The viewer should instantly feel a fresh, clean scent that settles into warm vanilla, made for a smart, easy day.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+23. Onyx Bloom (women, strong)
+How it smells: Bold, dark, oriental power softened by a romantic floral heart. A statement scent.
+Best used for: Evenings, going out, special occasions and being remembered.
+Status in the Perfume Standard Operating Procedures: on hold until Tom Ford Noir Extreme is back in stock. Prepare this image now so it is ready for the launch announcement.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LUXURY PERFUME ADVERTISEMENT using the ATTACHED PERFUME BOTTLE as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Set the scene on a polished black onyx stone surface with fine gold veins. The bottle is surrounded by deep red and dark plum roses, black-tinted petals, curls of amber smoke and scattered gold dust. A dramatic dark background hides the edges, and a few candle flames glow faintly behind.
+Color palette: onyx black, deep rose red, plum, dark gold and amber. Lighting: a dramatic single spotlight with a warm amber rim light on the glass, and glowing petals against deep shadows. Mood: powerful, feminine, mysterious and unforgettable. The viewer should instantly feel a bold, dark, floral scent made for a woman who wants to be remembered.
+Overall style: high-end luxury fragrance campaign, photorealistic commercial product photography, premium editorial styling, dramatic close-up composition, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the bottle sharp, dominant and fully recognizable, with its branding perfectly readable. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when to wear it without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the bottle is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the bottle centered and every important element kept well inside the middle safe area.
+	
+
+6. Car Air Freshener Scents
+For these prompts, attach a photo of the product you want to show: the hanging bottle with the wooden cap, or the gel tin. The prompt already tells ChatGPT how to place each one inside a clean car interior. These four scents are the ones recommended in the Car Air Freshener Standard Operating Procedures, version 1.2, because heavy sweet scents stay the same in a hot car.
+24. Vanilla 28 car freshener
+How it smells: Warm, creamy and sweet, like vanilla cream and soft caramel.
+Best used for: Long drives, traffic, evening commutes and a car that feels like a cozy lounge. Rated best choice in the Car Air Freshener Standard Operating Procedures.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LIFESTYLE ADVERTISEMENT for a car air freshener using the ATTACHED PRODUCT PHOTO as the exact hero product. Preserve the product EXACTLY: shape, proportions, cap or lid, glass or metal, liquid or gel color, label, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the product. If the attached product is the hanging bottle with the wooden cap, show it hanging from the rear-view mirror of a clean car interior with the wooden cap clearly visible. If the attached product is the gel tin, show it open and resting in the cup holder or on the center console of a clean car interior. Do not show any car brand logos anywhere.
+Set the scene inside a spotless car interior at golden hour, seen from the driver seat, with the product as the clear focus in the foreground. Whole vanilla pods, small white orchids and a soft swirl of cream float gently in the warm air around the product. Through the windshield, a soft, blurred sunset road glows in the distance, with warm light streaming across the seats.
+Color palette: vanilla cream, honey gold, caramel amber and soft warm brown. Lighting: warm golden sunset light through the windshield with gentle glowing highlights. Mood: cozy, calm, comforting and unhurried. The viewer should instantly feel a warm, creamy, sweet scent that makes every drive relaxing.
+Overall style: high-end car lifestyle campaign, photorealistic commercial product photography, premium editorial styling, shallow depth of field, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its branding perfectly readable, and keep the car interior spotless and premium. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when it suits them without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the product is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the product placed in the lower middle and every important element kept well inside the middle safe area.
+	
+
+25. Strawberry car freshener
+How it smells: Sweet, juicy strawberry with a soft creamy finish. Cheerful and fresh.
+Best used for: Daily driving, ride-hailing and taxi work, school runs and anyone who wants a happy, sweet-smelling car. Rated best choice and tested in the Car Air Freshener Standard Operating Procedures.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LIFESTYLE ADVERTISEMENT for a car air freshener using the ATTACHED PRODUCT PHOTO as the exact hero product. Preserve the product EXACTLY: shape, proportions, cap or lid, glass or metal, liquid or gel color, label, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the product. If the attached product is the hanging bottle with the wooden cap, show it hanging from the rear-view mirror of a clean car interior with the wooden cap clearly visible. If the attached product is the gel tin, show it open and resting in the cup holder or on the center console of a clean car interior. Do not show any car brand logos anywhere.
+Set the scene inside a clean car on a bright, sunny morning, with the product in the clear foreground. Ripe red strawberries, one of them sliced to show its juicy center, and a small swirl of pink strawberry cream float around the product, with tiny juice droplets sparkling in the air. Through the windshield, a blurred sunny street lined with fresh green trees glows in the distance.
+Color palette: strawberry red, soft pink, cream white and fresh leaf green. Lighting: bright, fresh morning sunlight through the windshield with sparkling highlights. Mood: happy, juicy, fresh and uplifting. The viewer should instantly feel a sweet, fruity scent that turns a normal drive into a good morning.
+Overall style: high-end car lifestyle campaign, photorealistic commercial product photography, premium editorial styling, shallow depth of field, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its branding perfectly readable, and keep the car interior spotless and premium. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when it suits them without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the product is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the product placed in the lower middle and every important element kept well inside the middle safe area.
+	
+
+26. Marshmallow car freshener
+How it smells: Soft, sugary and gentle, like fresh marshmallow.
+Best used for: Younger drivers, a cheerful sweet-smelling car and gifts. Rated excellent in the Car Air Freshener Standard Operating Procedures.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LIFESTYLE ADVERTISEMENT for a car air freshener using the ATTACHED PRODUCT PHOTO as the exact hero product. Preserve the product EXACTLY: shape, proportions, cap or lid, glass or metal, liquid or gel color, label, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the product. If the attached product is the hanging bottle with the wooden cap, show it hanging from the rear-view mirror of a clean car interior with the wooden cap clearly visible. If the attached product is the gel tin, show it open and resting in the cup holder or on the center console of a clean car interior. Do not show any car brand logos anywhere.
+Set the scene inside a bright car interior where soft pastel pink and white clouds drift gently through the cabin around the product, with tiny puffs of powdered sugar floating in the air. Through the windshield, a soft pastel sky and a quiet road glow in the distance.
+Color palette: baby pink, marshmallow white, cream and pale lavender. Lighting: soft, bright and even daylight with a gentle sparkle. Mood: sweet, playful, soft and cheerful. The viewer should instantly feel a fluffy, sugary, comforting scent that makes the car feel soft and happy.
+Overall style: high-end car lifestyle campaign, photorealistic commercial product photography, premium editorial styling, shallow depth of field, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its branding perfectly readable, and keep the car interior spotless and premium. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when it suits them without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the product is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the product placed in the lower middle and every important element kept well inside the middle safe area.
+	
+
+27. Coconut Passion car freshener
+How it smells: Sweet tropical coconut with passion fruit, warm and sunny.
+Best used for: Road trips to the beach, sunny drives, a holiday mood and hot afternoons. The Car Air Freshener Standard Operating Procedures says to run the stability test first, so launch this one after testing.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a PREMIUM CINEMATIC LIFESTYLE ADVERTISEMENT for a car air freshener using the ATTACHED PRODUCT PHOTO as the exact hero product. Preserve the product EXACTLY: shape, proportions, cap or lid, glass or metal, liquid or gel color, label, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the product. If the attached product is the hanging bottle with the wooden cap, show it hanging from the rear-view mirror of a clean car interior with the wooden cap clearly visible. If the attached product is the gel tin, show it open and resting in the cup holder or on the center console of a clean car interior. Do not show any car brand logos anywhere.
+Set the scene inside a clean car on a sunny coastal road trip, with the product in the clear foreground. Halved coconuts, passion fruit and a white frangipani flower rest around the product. Through the windshield, a sunny coastal road with swaying palm trees and sparkling turquoise ocean glows in the distance.
+Color palette: coconut white, golden yellow, warm coral and turquoise. Lighting: warm, bright sunlight with a golden glow. Mood: holiday, sunny, relaxed and tropical. The viewer should instantly feel a sweet, creamy, tropical scent that makes every drive feel like a holiday.
+Overall style: high-end car lifestyle campaign, photorealistic commercial product photography, premium editorial styling, shallow depth of field, realistic materials and physics, cinematic lighting, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its branding perfectly readable, and keep the car interior spotless and premium. The image must explain the scent through color, light, texture and setting alone, so a viewer understands how it smells and when it suits them without reading a single word.
+NO extra text, words, letters, numbers, captions, logos, slogans or watermarks anywhere in the image. Only the original text already on the product is allowed.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post, with the product placed in the lower middle and every important element kept well inside the middle safe area.
+	
+
+7. Creative Sales Post Prompts
+These sixteen prompts are not scent introductions. They are fun, scroll-stopping ideas built to earn attention, shares and comments, and to push viewers toward buying. Unlike the scent introduction images, these allow overlay text, and the exact words are written inside each prompt.
+Read this first: Please check these five points before you start.
+1. Phone number: I left your phone number out of the images on purpose, because digits are the most common thing image generators get wrong. Put your call and WhatsApp number in the caption of every post.
+2. Logo: the logo is not part of these prompts, so you spend fewer uploads on the free plan and avoid a redrawn logo. Add your logo afterward in the Instagram editor or a free design app. If you would rather include it, attach the logo as the last image and add this sentence to the end of the prompt: The last attached image is my logo. Place it small, unchanged and fully visible at the bottom center, at least 80 pixels from the edge. Do not redraw, recolor or re-spell it.
+3. Prices: the prices in the text come from your standard operating procedures and from what you told me: 10,000 Tzs for the 10 millilitre perfume and for the hanging air freshener, 25,000 Tzs for the Try and Buy bundle, and 105,000 Tzs for the His and Hers Flagship set. If a price changes, change it inside the TEXT part of that prompt.
+4. Hands and people: where hands appear, the prompts ask for African hands. Change the words if you want a different look.
+5. If the text comes out wrong: use the text correction prompt in Section 8. It fixes only the words and costs one generation.
+Suggested posting rhythm: alternate between types so your page stays interesting. For example, one scent introduction, then one fun or engagement post (Would You Rather, Which Scent Are You), then one selling post (The Price Shock, Try Three, His and Hers).
+28. Heads or Tails
+Post goal: A witty, shareable post that tells viewers that choosing your perfume is always the right choice.
+Attach to ChatGPT: One photo of your perfume bottle.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a clean, witty studio composition on a soft warm cream background. On the left, a hand with dark skin and a thin gold ring flicks a shiny gold coin high into the air, caught sharply in mid-flip above an open palm. On the right, a second hand holds the perfume bottle upright toward the viewer with the label facing forward. The hands are African, elegant and well manicured. Leave generous clean space at the top for text.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center, large: "Heads: smell great." (2) Directly below it, large: "Tails: smell great." (3) Bottom center, smaller: "Either way, you win."
+Color palette: warm cream, gold, soft black and gentle skin-tone warmth. Lighting: soft, even studio light with natural shadows under the hands. Mood: witty, premium and playful.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+29. The Price Shock
+Post goal: Stops the scroll with surprise and shows how affordable your 10 millilitre bottle is.
+Attach to ChatGPT: One photo of your 10 millilitre perfume bottle.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a bold, bright composition on a solid vivid yellow background. The bottle stands in the center on a small round white podium. A very large, glossy white price tag on a red string hangs from the neck of the bottle, floating slightly forward and tilted, fully readable. Small gold sparkles and a few pieces of paper confetti float around the bottle.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) On the price tag, very large: "10,000 Tzs" (2) Top center: "Wait, how much?" (3) Bottom center: "Yes. Really."
+Color palette: sunshine yellow, white, red and black. Lighting: bright, even, high-key light with crisp shadows. Mood: surprising, cheerful and bold.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+30. Try Three (Try and Buy Offer)
+Post goal: Promotes your Try and Buy bundle of three 10 millilitre bottles for 25,000 Tzs, which makes the first purchase easy.
+Attach to ChatGPT: One photo of your 10 millilitre bottle. For three different scents, attach one photo that shows three different bottles and add this sentence to the prompt: Show the three bottles from my photo exactly as they are.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a premium tasting-flight display. Three bottles that all look exactly like the attached bottle stand evenly spaced in a row on a dark wooden serving tray, like a tasting menu at a fine restaurant. Beside them are a small white bowl of coffee beans and three plain, blank white scent-testing paper strips fanned out. The background is a warm, softly blurred boutique interior.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center: "Can't choose? Try three." (2) Bottom center, inside a gold rounded badge: "3 x 10ml for 25,000 Tzs"
+Color palette: warm wood brown, cream, gold and soft black. Lighting: warm, soft boutique lighting with gentle glowing highlights on the glass. Mood: inviting, premium and tasteful.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+31. His and Hers Gift Set
+Post goal: Targets gift buyers with your His and Hers Flagship set at 105,000 Tzs.
+Attach to ChatGPT: One photo that shows both bottles together (Crown Noir and Cashmere Bloom), or two separate photos.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PHOTO OR PHOTOS of my two perfume bottles as the exact hero products. Preserve both bottles EXACTLY: shape, proportions, caps, glass, liquid colors, labels, logos, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on either bottle.
+Create a luxury open gift box on a satin surface holding the two attached bottles side by side: the dark, masculine bottle on the left and the soft, feminine bottle on the right. The background divides gently down the middle: the left side is black with gold glints, and the right side is soft blush pink with floating petals. A thin gold ribbon crosses the box and gold confetti floats gently in the air.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center: "The perfect gift" (2) Below it: "His and Hers" (3) Bottom center, inside a gold rounded badge: "105,000 Tzs"
+Color palette: black, gold, blush pink and ivory. Lighting: a warm spotlight with glossy highlights on the glass. Mood: romantic, premium and gift-ready.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+32. Which Scent Are You?
+Post goal: An interactive post that gets comments by asking viewers to pick their scent personality.
+Attach to ChatGPT: One photo of your perfume bottle.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a top-down graphic composition divided into four equal square quadrants that meet in the center. Top-left: a sparkling aqua water splash. Top-right: a creamy cream and caramel swirl with a vanilla pod. Bottom-left: blush pink flower petals. Bottom-right: black marble with curls of amber smoke. The bottle stands in the exact center on a small round gold platform where the four quadrants meet, with realistic shadows, and nothing covers it.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top banner: "Which scent are you?" (2) Small bold labels near the outer corners of the quadrants: "Fresh" in the top-left, "Sweet" in the top-right, "Floral" in the bottom-left and "Bold" in the bottom-right. (3) Bottom center: "Comment your pick."
+Color palette: aqua, cream, blush pink, black and gold. Lighting: bright, even and clean. Mood: playful, colorful and interactive.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+33. Would You Rather?
+Post goal: Gets comments by asking viewers to pick between a cozy sweet scent and a fresh tropical scent.
+Attach to ChatGPT: One photo that shows two bottles: a sweet vanilla scent and a coconut scent. Or two separate photos.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PHOTO OR PHOTOS of my two perfume bottles as the exact hero products. Preserve both bottles EXACTLY: shape, proportions, caps, glass, liquid colors, labels, logos, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on either bottle.
+Create a split image divided by a straight vertical line. The left half shows a cozy rainy night with soft candlelight, a knitted blanket, a warm drink and a window with raindrops, and the vanilla bottle stands on a small table. The right half shows a bright sunny beach with white sand, turquoise water and a halved coconut, and the coconut bottle stands on the sand. Both bottles are the same size and height, with equal prominence, in the lower middle of their halves.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center: "Would you rather?" (2) Bottom-left: "Cozy night" (3) Bottom-right: "Beach day" (4) Very bottom center, smaller: "Tell us in the comments."
+Color palette: warm amber and brown on the left, turquoise and sunshine yellow on the right. Lighting: warm candlelight on the left and bright sunlight on the right. Mood: fun, contrasting and engaging.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+34. The Compliment Machine
+Post goal: A funny, memorable concept that links perfume with compliments and shows your starting price.
+Attach to ChatGPT: One photo of your perfume bottle.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a sleek modern cash machine in black and gold with a softly glowing screen, with no bank names, no logos and no real brand marks on it. From its cash slot, several perfume bottles that all look exactly like the attached bottle slide out as if being dispensed, with gold sparkles around them. An African hand reaches in and takes one bottle. The background is a moody night street with soft glowing bokeh lights.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center: "Withdraw compliments." (2) Bottom center: "Perfume from 10,000 Tzs"
+Color palette: black, gold and a touch of teal glow. Lighting: warm gold glow from the machine with soft night light around it. Mood: funny, stylish and premium.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+35. Outfit Loading
+Post goal: A relatable, clever post that positions perfume as the missing piece of every outfit.
+Attach to ChatGPT: One photo of your perfume bottle.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a top-down flat lay on a clean light-gray floor showing a neatly arranged outfit: a crisp shirt, trousers, a belt, a watch and shoes laid out as if worn. The attached bottle stands at the lower right edge of the outfit, as the one item that completes it. Across the upper part of the image, add a modern loading-bar graphic: a pale rounded bar that is almost full and stops just before the end.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) On the loading bar: "Outfit ready: 99%" (2) Next to the bottle: "Missing: perfume" (3) Bottom center: "Finish the look."
+Color palette: soft gray, white, navy and gold. Lighting: soft, even, clean overhead light. Mood: relatable, clever and tidy.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+36. Warning: May Cause Compliments
+Post goal: A funny, high-contrast post that stops the scroll and builds confidence in the product.
+Attach to ChatGPT: One photo of your perfume bottle.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a humorous warning-sign style composition. The bottle stands in the center on a glossy black surface, in front of a bright yellow warning panel with a thick black border and diagonal black and yellow hazard stripes along the top and bottom edges. Add yellow and black caution tape wrapped across the corners, with no letters on it. Add a small black warning triangle with an exclamation mark in the top-left corner.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center, very large: "WARNING" (2) Just above the bottle: "May cause compliments." (3) Bottom center: "Wear with confidence."
+Color palette: warning yellow, black, white and a touch of gold. Lighting: crisp, bright commercial lighting with sharp shadows. Mood: bold, funny and eye-catching.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+37. The Prescription
+Post goal: A clever pharmacy-style joke that fits your pharmacy background and makes the brand memorable.
+Attach to ChatGPT: One photo of your perfume bottle.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a clean, bright pharmacy-counter style scene on white marble. A pad of paper styled like a prescription note lies in the center-left, with a slim pen resting on it. The bottle stands upright on the right beside the pad. In the blurred background, add a small plain glass dropper bottle with no label. Use soft mint green and white pharmacy colors.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) On the pad, as a heading: "Prescription" (2) On the pad, below it: "Spray twice before you leave." (3) On the pad, at the bottom: "Side effects: compliments."
+Color palette: white, mint green, soft gold and light gray. Lighting: bright, clean daylight with soft shadows. Mood: clever, clean and fun.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+38. Two Scents, One Signature
+Post goal: Shows that your signature blends are special and different from ordinary single scents.
+Attach to ChatGPT: One photo of a signature blend bottle, for example Crown Noir.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED PERFUME BOTTLE PHOTO as the exact hero product. Preserve the bottle EXACTLY: shape, proportions, cap, glass, liquid color, label, logo, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the bottle.
+Create a dark, glossy black background. From the left, a stream of warm amber liquid pours in slow motion, and from the right, a stream of cool teal liquid pours in slow motion. They collide and swirl together around the bottle into a rich new blended color, with frozen splash droplets in the air. The bottle stands in the center on a mirror-like black surface with a clear reflection.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center: "Two scents. One signature." (2) Bottom center, smaller: "Our signature blends."
+Color palette: amber, teal, black and silver. Lighting: dramatic studio light with glowing rim highlights on the liquid and the glass. Mood: creative, luxurious and exciting.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+39. Five-Star Ride (Car)
+Post goal: Targets taxi and ride-hailing drivers and fleet owners with your 10,000 Tzs hanging air freshener.
+Attach to ChatGPT: One photo of your hanging air freshener.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED HANGING CAR AIR FRESHENER PHOTO as the exact hero product. Preserve the product EXACTLY: shape, proportions, glass bottle, plug, raw wooden cap, cord, liquid color, label, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the product. Do not show any car brand logos anywhere.
+Seen from the back seat of a clean, premium car, the hanging bottle with the wooden cap dangles from the rear-view mirror in the sharp foreground, large and clear. Beyond the windshield is a softly blurred city road at golden hour. Five glowing gold stars float in a neat row above the bottle like a rating.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Under the stars: "Five stars start with a fresh car." (2) Bottom center, inside a gold rounded badge: "10,000 Tzs"
+Color palette: warm gold, cream and deep charcoal. Lighting: warm golden-hour light through the windshield with glowing highlights on the glass. Mood: premium, professional and welcoming.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+40. Stuck in Traffic (Car)
+Post goal: A relatable humor post for every driver in busy city traffic.
+Attach to ChatGPT: One photo of your hanging air freshener.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED HANGING CAR AIR FRESHENER PHOTO as the exact hero product. Preserve the product EXACTLY: shape, proportions, glass bottle, plug, raw wooden cap, cord, liquid color, label, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the product. Do not show any car brand logos anywhere.
+Show a view through the windshield of a heavy, slow city traffic jam on a hot afternoon, with red brake lights, heat haze and blurred vehicles. The hanging bottle hangs from the rear-view mirror in the sharp foreground, with tiny golden sparkles drifting gently from the wooden cap. A relaxed African hand rests calmly on the steering wheel at the bottom of the frame.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center: "Stuck in traffic?" (2) Bottom center: "At least the car smells good."
+Color palette: hot orange-red brake lights and dusty gold, with a cool cream sparkle around the bottle. Lighting: strong afternoon sun with a hazy glow. Mood: funny, relatable and calm.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+41. Before and After (Car)
+Post goal: A clear visual transformation that shows what the hanging air freshener does for a car.
+Attach to ChatGPT: One photo of your hanging air freshener.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED HANGING CAR AIR FRESHENER PHOTO as the exact hero product. Preserve the product EXACTLY: shape, proportions, glass bottle, plug, raw wooden cap, cord, liquid color, label, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the product. Do not show any car brand logos anywhere.
+Create an image divided into two equal halves by a thin white vertical line, using the same camera angle inside a car in both halves. The left half is a dull, dim, slightly messy car interior with a faded gray tone and faint wavy green smell lines rising from the seats. The right half is the same car, clean, bright and warm with golden light, soft sparkles, and the hanging bottle from the attached photo hanging from the rear-view mirror. The bottle appears only in the right half.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top-left: "Before" (2) Top-right: "After" (3) Bottom center: "Make your car smell new."
+Color palette: desaturated gray-green on the left, warm gold and cream on the right. Lighting: dim and flat on the left, warm and glowing on the right. Mood: dramatic, clear and satisfying.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+42. The Perfect Gift for a Driver (Car)
+Post goal: Opens a new gift-buying audience for the hanging air freshener.
+Attach to ChatGPT: One photo of your hanging air freshener.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the ATTACHED HANGING CAR AIR FRESHENER PHOTO as the exact hero product. Preserve the product EXACTLY: shape, proportions, glass bottle, plug, raw wooden cap, cord, liquid color, label, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on the product. Do not show any car brand logos anywhere.
+On a warm wooden table, the attached hanging bottle rests on top of a small gift box tied with a red ribbon and a bow, with the cord loosely coiled beside it. Next to it lies a plain, generic car key with no brand marks. The background is a softly blurred, warm car interior with golden light.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center: "The perfect gift for a driver." (2) Bottom center: "Hanging air freshener"
+Color palette: warm wood brown, cream, red and gold. Lighting: warm, soft, golden light with gentle highlights. Mood: thoughtful, warm and giftable.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+43. Smell Good. Drive Good. (Perfume and Car)
+Post goal: Introduces both product lines together so perfume customers see the air freshener as the next purchase.
+Attach to ChatGPT: Two photos, attached in this order: first your perfume bottle, then your hanging air freshener.
+Prompt to copy into ChatGPT (copy everything inside the box):
+Create a scroll-stopping, fun and eye-catching Instagram advertisement image using the TWO ATTACHED PHOTOS as the exact hero products. The FIRST photo is my perfume bottle and the SECOND photo is my hanging car air freshener with the wooden cap. Preserve both products EXACTLY: shape, proportions, caps, glass, liquid colors, labels, typography, colors and every original detail. Do not redesign, distort, replace or invent anything on either product.
+Create a clean, pale stone surface. On the left, the perfume bottle stands upright. On the right, the hanging air freshener hangs from a slim gold hook stand, with its wooden cap clearly visible. Behind them is a softly blurred window with warm golden daylight and a gentle view of a car. Both products have the same visual weight, side by side, equally sharp.
+TEXT: add exactly this text and nothing else, spelled exactly as written. (1) Top center: "Smell good. Drive good." (2) Bottom center: "Perfumes and car air fresheners"
+Color palette: cream, gold, soft warm gray and hints of natural wood. Lighting: warm, soft golden daylight with gentle highlights. Mood: premium, friendly and fresh.
+Overall style: photorealistic, premium advertising photography with one clear creative idea and one clear focal point, clean composition, realistic materials and physics, extremely sharp and ultra detailed. Keep the product sharp, dominant and fully recognizable, with its original label perfectly readable, and never cover it with text.
+TEXT RULES: use ONLY the exact text listed above, spelled exactly as written, in a bold, clean, modern font that is large, high contrast and easy to read on a phone. Add no other words, letters, numbers, logos, slogans or watermarks anywhere, apart from the original text already on the product.
+ASPECT RATIO: 4:5 vertical (1080 by 1350 pixels), designed for an Instagram feed post. Keep every piece of text and every important element at least 80 pixels away from every edge.
+	
+
+8. Follow-Up Prompts to Fix Problems
+Paste one of these into the same ChatGPT chat right after a result that has a problem. Keep your bottle photo attached in the chat.
+The bottle looks different from your photo
+The bottle in this image is not identical to my attached photo. Regenerate the same scene, but copy the bottle exactly from my photo: the same shape, proportions, cap, glass, liquid color, label and text. Change nothing else.
+	
+
+Words, logos or watermarks appeared in the image
+Remove all added text, words, letters, numbers, logos and watermarks from the image. Keep only the original label on the bottle. Keep everything else exactly the same.
+	
+
+The scene is too crowded
+Simplify the image. Use fewer props, make the bottle larger and more dominant, and keep the same colors, lighting and mood.
+	
+
+The size is wrong
+Regenerate this image at a 4:5 vertical aspect ratio (1080 by 1350 pixels) with the bottle centered and all important elements inside the middle safe area. Keep the scene exactly the same.
+	
+
+The scent personality is not clear enough
+Make the colors, lighting and props stronger and more obvious so that the scent personality is understood at first glance without any words. Keep the bottle exactly as it is in my photo.
+	
+
+The text on a creative post (Section 7) is misspelled or wrong
+Keep the image exactly the same, but correct only the text. Replace every piece of text so that it reads exactly as follows, spelled exactly as written: [paste the exact text lines from the prompt here]. Add no other text. Do not change the product, the scene or the colors.
+	
+
+You want a second version for a carousel
+Create a second version of this scene from a different angle, a close-up of the bottle with the same colors, lighting and mood, so it can be the next picture in my Instagram carousel. Keep the bottle exactly as it is in my photo.
+	
+
+NolMart Scents image prompts   |   Page
